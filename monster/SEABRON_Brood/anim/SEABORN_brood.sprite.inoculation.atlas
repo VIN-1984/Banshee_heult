@@ -1,0 +1,104 @@
+
+SEABORN_brood.sprite.inoculation.png
+size: 1352,1352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 696, 729
+  size: 555, 471
+  orig: 558, 474
+  offset: 2, 1
+  index: -1
+arm2
+  rotate: true
+  xy: 2, 50
+  size: 437, 242
+  orig: 439, 244
+  offset: 1, 1
+  index: -1
+egg
+  rotate: false
+  xy: 2, 489
+  size: 444, 437
+  orig: 446, 440
+  offset: 1, 2
+  index: -1
+eye
+  rotate: true
+  xy: 1295, 1330
+  size: 20, 21
+  orig: 26, 28
+  offset: 3, 4
+  index: -1
+ghoust
+  rotate: false
+  xy: 2, 928
+  size: 692, 422
+  orig: 699, 428
+  offset: 5, 4
+  index: -1
+head
+  rotate: true
+  xy: 1253, 898
+  size: 302, 97
+  orig: 304, 99
+  offset: 1, 1
+  index: -1
+s1
+  rotate: true
+  xy: 953, 376
+  size: 351, 367
+  orig: 353, 369
+  offset: 1, 1
+  index: -1
+sea wave1
+  rotate: false
+  xy: 953, 56
+  size: 308, 318
+  orig: 316, 326
+  offset: 4, 4
+  index: -1
+sea wave2
+  rotate: false
+  xy: 448, 520
+  size: 141, 147
+  orig: 145, 150
+  offset: 2, 1
+  index: -1
+sea wave3
+  rotate: false
+  xy: 448, 669
+  size: 246, 257
+  orig: 252, 263
+  offset: 3, 3
+  index: -1
+sea wave5
+  rotate: false
+  xy: 543, 110
+  size: 408, 408
+  orig: 464, 465
+  offset: 27, 29
+  index: -1
+shadow
+  rotate: false
+  xy: 696, 1202
+  size: 597, 148
+  orig: 601, 153
+  offset: 2, 1
+  index: -1
+shell
+  rotate: true
+  xy: 246, 72
+  size: 415, 295
+  orig: 417, 299
+  offset: 1, 3
+  index: -1
+tail
+  rotate: true
+  xy: 696, 534
+  size: 193, 119
+  orig: 197, 122
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,363 @@
+
+SEABORN_effected.sprite.combat.png
+size: 2742,2742
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Headdress1
+  rotate: true
+  xy: 1816, 1333
+  size: 224, 637
+  orig: 1095, 1202
+  offset: 427, 430
+  index: -1
+Headdress2
+  rotate: false
+  xy: 1587, 2389
+  size: 397, 351
+  orig: 1095, 1202
+  offset: 503, 671
+  index: -1
+Headdress3
+  rotate: true
+  xy: 1099, 2248
+  size: 362, 476
+  orig: 1095, 1202
+  offset: 509, 550
+  index: -1
+algae  bloom1
+  rotate: false
+  xy: 1099, 2005
+  size: 453, 241
+  orig: 1095, 1202
+  offset: 308, 55
+  index: -1
+algae  bloom2
+  rotate: true
+  xy: 888, 575
+  size: 961, 697
+  orig: 1095, 1202
+  offset: 73, 55
+  index: -1
+algae  bloom3
+  rotate: false
+  xy: 1548, 1559
+  size: 911, 444
+  orig: 1095, 1202
+  offset: 137, 127
+  index: -1
+algae  bloom4
+  rotate: true
+  xy: 692, 43
+  size: 528, 691
+  orig: 1095, 1202
+  offset: 321, 90
+  index: -1
+arm1
+  rotate: true
+  xy: 2461, 1428
+  size: 239, 269
+  orig: 1095, 1202
+  offset: 220, 644
+  index: -1
+arm2
+  rotate: false
+  xy: 2455, 1180
+  size: 281, 246
+  orig: 1095, 1202
+  offset: 503, 697
+  index: -1
+belt1
+  rotate: true
+  xy: 1713, 1432
+  size: 125, 101
+  orig: 1095, 1202
+  offset: 410, 692
+  index: -1
+belt2
+  rotate: false
+  xy: 1790, 580
+  size: 500, 255
+  orig: 1095, 1202
+  offset: 539, 573
+  index: -1
+belt3
+  rotate: false
+  xy: 1099, 2612
+  size: 479, 128
+  orig: 1095, 1202
+  offset: 550, 866
+  index: -1
+candle1
+  rotate: false
+  xy: 2547, 1955
+  size: 190, 318
+  orig: 1095, 1202
+  offset: 116, 678
+  index: -1
+candle2
+  rotate: true
+  xy: 2292, 446
+  size: 190, 318
+  orig: 1095, 1202
+  offset: 626, 784
+  index: -1
+chest
+  rotate: true
+  xy: 2370, 239
+  size: 205, 217
+  orig: 1095, 1202
+  offset: 379, 776
+  index: -1
+colak
+  rotate: false
+  xy: 2, 13
+  size: 688, 558
+  orig: 1095, 1202
+  offset: 370, 169
+  index: -1
+crotch
+  rotate: true
+  xy: 2589, 111
+  size: 165, 136
+  orig: 1095, 1202
+  offset: 305, 573
+  index: -1
+decoration
+  rotate: false
+  xy: 1587, 1431
+  size: 124, 126
+  orig: 1095, 1202
+  offset: 293, 631
+  index: -1
+eyebrow
+  rotate: false
+  xy: 779, 2
+  size: 77, 16
+  orig: 1095, 1202
+  offset: 400, 994
+  index: -1
+eyeshark
+  rotate: false
+  xy: 2674, 2654
+  size: 63, 86
+  orig: 1095, 1202
+  offset: 586, 919
+  index: -1
+finger
+  rotate: true
+  xy: 1440, 5
+  size: 54, 42
+  orig: 1095, 1202
+  offset: 197, 668
+  index: -1
+hair1
+  rotate: true
+  xy: 1755, 2012
+  size: 187, 136
+  orig: 1095, 1202
+  offset: 358, 959
+  index: -1
+hair2
+  rotate: true
+  xy: 1484, 15
+  size: 44, 118
+  orig: 1095, 1202
+  offset: 481, 933
+  index: -1
+hair3
+  rotate: true
+  xy: 2292, 766
+  size: 69, 104
+  orig: 1095, 1202
+  offset: 393, 888
+  index: -1
+hair4
+  rotate: true
+  xy: 1790, 837
+  size: 494, 635
+  orig: 1095, 1202
+  offset: 15, 454
+  index: -1
+hair5
+  rotate: true
+  xy: 1992, 2275
+  size: 465, 680
+  orig: 1095, 1202
+  offset: 220, 402
+  index: -1
+hat1
+  rotate: true
+  xy: 1992, 353
+  size: 225, 253
+  orig: 1095, 1202
+  offset: 400, 944
+  index: -1
+hat2
+  rotate: false
+  xy: 2461, 1669
+  size: 269, 284
+  orig: 1095, 1202
+  offset: 245, 913
+  index: -1
+head
+  rotate: false
+  xy: 2589, 278
+  size: 151, 166
+  orig: 1095, 1202
+  offset: 380, 929
+  index: -1
+headwear
+  rotate: true
+  xy: 2674, 2499
+  size: 153, 58
+  orig: 1095, 1202
+  offset: 372, 1037
+  index: -1
+leg1
+  rotate: true
+  xy: 1577, 2201
+  size: 186, 411
+  orig: 1095, 1202
+  offset: 382, 77
+  index: -1
+leg2
+  rotate: true
+  xy: 2161, 126
+  size: 225, 207
+  orig: 1095, 1202
+  offset: 361, 430
+  index: -1
+lower abdomen
+  rotate: true
+  xy: 1554, 2005
+  size: 194, 199
+  orig: 1095, 1202
+  offset: 338, 665
+  index: -1
+saw parts1
+  rotate: true
+  xy: 2, 573
+  size: 963, 884
+  orig: 1095, 1202
+  offset: 129, 162
+  index: -1
+saw parts2
+  rotate: true
+  xy: 779, 20
+  size: 21, 20
+  orig: 1095, 1202
+  offset: 365, 396
+  index: -1
+saw parts3
+  rotate: false
+  xy: 2427, 638
+  size: 310, 252
+  orig: 1095, 1202
+  offset: 321, 388
+  index: -1
+saw parts4
+  rotate: false
+  xy: 2370, 83
+  size: 176, 154
+  orig: 1095, 1202
+  offset: 226, 269
+  index: -1
+saw parts5
+  rotate: false
+  xy: 1385, 4
+  size: 53, 55
+  orig: 1095, 1202
+  offset: 197, 186
+  index: -1
+saw parts6
+  rotate: false
+  xy: 2292, 665
+  size: 101, 99
+  orig: 1095, 1202
+  offset: 189, 237
+  index: -1
+saw parts7
+  rotate: false
+  xy: 1893, 2110
+  size: 89, 89
+  orig: 1095, 1202
+  offset: 328, 361
+  index: -1
+saw parts8
+  rotate: false
+  xy: 2136, 2014
+  size: 221, 259
+  orig: 1095, 1202
+  offset: 196, 187
+  index: -1
+saw parts9
+  rotate: false
+  xy: 1099, 1553
+  size: 447, 450
+  orig: 1095, 1202
+  offset: 15, 63
+  index: -1
+sealing wax
+  rotate: true
+  xy: 728, 8
+  size: 33, 49
+  orig: 1095, 1202
+  offset: 545, 880
+  index: -1
+shadow1
+  rotate: false
+  xy: 1385, 61
+  size: 605, 512
+  orig: 1095, 1202
+  offset: 38, 81
+  index: -1
+shadow3
+  rotate: true
+  xy: 2427, 892
+  size: 286, 313
+  orig: 1095, 1202
+  offset: 156, 166
+  index: -1
+shadow4
+  rotate: true
+  xy: 1587, 618
+  size: 808, 201
+  orig: 1095, 1202
+  offset: 127, 2
+  index: -1
+skirt1
+  rotate: false
+  xy: 2, 1538
+  size: 1095, 1202
+  orig: 1095, 1202
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: true
+  xy: 1992, 50
+  size: 301, 167
+  orig: 1095, 1202
+  offset: 296, 545
+  index: -1
+thigh1
+  rotate: false
+  xy: 1990, 2005
+  size: 144, 268
+  orig: 1095, 1202
+  offset: 306, 413
+  index: -1
+thigh2
+  rotate: false
+  xy: 2359, 2015
+  size: 186, 258
+  orig: 1095, 1202
+  offset: 406, 444
+  index: -1
+x
+  rotate: false
+  xy: 692, 6
+  size: 34, 35
+  orig: 1095, 1202
+  offset: 717, 697
+  index: -1

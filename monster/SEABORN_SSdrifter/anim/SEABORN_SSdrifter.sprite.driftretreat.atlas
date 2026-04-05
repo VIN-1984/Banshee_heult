@@ -1,0 +1,76 @@
+
+SEABORN_SSdrifter.sprite.driftretreat.png
+size: 561,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 397, 296
+  size: 263, 148
+  orig: 266, 150
+  offset: 2, 1
+  index: -1
+calcium ball
+  rotate: true
+  xy: 255, 7
+  size: 199, 189
+  orig: 201, 192
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 376, 208
+  size: 165, 86
+  orig: 167, 89
+  offset: 1, 2
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 462
+  size: 393, 97
+  orig: 396, 102
+  offset: 2, 1
+  index: -1
+tail
+  rotate: true
+  xy: 446, 100
+  size: 106, 110
+  orig: 108, 113
+  offset: 1, 2
+  index: -1
+wigle
+  rotate: false
+  xy: 500, 57
+  size: 46, 41
+  orig: 48, 43
+  offset: 1, 1
+  index: -1
+wigle2
+  rotate: true
+  xy: 500, 12
+  size: 43, 41
+  orig: 47, 43
+  offset: 2, 1
+  index: -1
+wigle3
+  rotate: true
+  xy: 446, 40
+  size: 58, 52
+  orig: 60, 54
+  offset: 1, 1
+  index: -1
+wing1
+  rotate: false
+  xy: 2, 237
+  size: 372, 223
+  orig: 374, 225
+  offset: 1, 1
+  index: -1
+wing2
+  rotate: false
+  xy: 2, 2
+  size: 251, 233
+  orig: 253, 235
+  offset: 1, 1
+  index: -1

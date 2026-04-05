@@ -1,0 +1,90 @@
+
+SEABORN_effected.sprite.curse_AD.png
+size: 918,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mark1
+  rotate: false
+  xy: 627, 108
+  size: 128, 138
+  orig: 452, 452
+  offset: 158, 136
+  index: -1
+mark10
+  rotate: false
+  xy: 454, 539
+  size: 390, 377
+  orig: 452, 452
+  offset: 1, 52
+  index: -1
+mark11
+  rotate: false
+  xy: 2, 466
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+mark2
+  rotate: true
+  xy: 846, 574
+  size: 167, 44
+  orig: 452, 452
+  offset: 2, 177
+  index: -1
+mark3
+  rotate: true
+  xy: 745, 252
+  size: 123, 143
+  orig: 452, 452
+  offset: 53, 219
+  index: -1
+mark4
+  rotate: true
+  xy: 846, 743
+  size: 173, 59
+  orig: 452, 452
+  offset: 276, 174
+  index: -1
+mark5
+  rotate: true
+  xy: 627, 56
+  size: 50, 149
+  orig: 452, 452
+  offset: 188, 290
+  index: -1
+mark6
+  rotate: false
+  xy: 757, 110
+  size: 110, 140
+  orig: 452, 452
+  offset: 256, 231
+  index: -1
+mark7
+  rotate: false
+  xy: 416, 41
+  size: 209, 205
+  orig: 452, 452
+  offset: 120, 110
+  index: -1
+mark8
+  rotate: false
+  xy: 745, 377
+  size: 171, 160
+  orig: 452, 452
+  offset: 137, 125
+  index: -1
+mark9
+  rotate: false
+  xy: 454, 248
+  size: 289, 289
+  orig: 452, 452
+  offset: 79, 73
+  index: -1
+sound wave
+  rotate: false
+  xy: 2, 35
+  size: 412, 429
+  orig: 452, 452
+  offset: 19, 2
+  index: -1

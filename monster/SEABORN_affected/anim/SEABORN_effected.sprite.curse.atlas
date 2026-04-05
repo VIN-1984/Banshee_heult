@@ -1,0 +1,433 @@
+
+SEABORN_effected.sprite.curse.png
+size: 3111,3111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Decoration
+  rotate: true
+  xy: 2272, 2
+  size: 143, 145
+  orig: 1251, 1202
+  offset: 610, 621
+  index: -1
+Fingers and Paddles
+  rotate: false
+  xy: 1924, 854
+  size: 74, 59
+  orig: 1251, 1202
+  offset: 716, 851
+  index: -1
+Headdress1
+  rotate: false
+  xy: 2615, 1498
+  size: 494, 265
+  orig: 1251, 1202
+  offset: 543, 101
+  index: -1
+Headdress2
+  rotate: true
+  xy: 1696, 457
+  size: 456, 226
+  orig: 1251, 1202
+  offset: 597, 293
+  index: -1
+Headdress3
+  rotate: true
+  xy: 2449, 722
+  size: 511, 152
+  orig: 1251, 1202
+  offset: 577, 358
+  index: -1
+Paddle arm
+  rotate: false
+  xy: 2573, 138
+  size: 128, 308
+  orig: 1251, 1202
+  offset: 712, 602
+  index: -1
+Skeletal shell
+  rotate: false
+  xy: 1131, 2012
+  size: 1180, 436
+  orig: 1251, 1202
+  offset: 3, 565
+  index: -1
+The Seal of the Dead Sea1
+  rotate: false
+  xy: 792, 194
+  size: 119, 32
+  orig: 127, 36
+  offset: 3, 2
+  index: -1
+The Seal of the Dead Sea10
+  rotate: false
+  xy: 2927, 368
+  size: 158, 159
+  orig: 172, 162
+  offset: 12, 1
+  index: -1
+The Seal of the Dead Sea11
+  rotate: false
+  xy: 2272, 147
+  size: 299, 299
+  orig: 303, 303
+  offset: 2, 2
+  index: -1
+The Seal of the Dead Sea12
+  rotate: true
+  xy: 1706, 118
+  size: 337, 245
+  orig: 342, 258
+  offset: 1, 4
+  index: -1
+The Seal of the Dead Sea13
+  rotate: false
+  xy: 1953, 135
+  size: 317, 323
+  orig: 336, 343
+  offset: 18, 10
+  index: -1
+The Seal of the Dead Sea2
+  rotate: false
+  xy: 1977, 1908
+  size: 88, 102
+  orig: 94, 109
+  offset: 3, 3
+  index: -1
+The Seal of the Dead Sea3
+  rotate: true
+  xy: 3052, 1372
+  size: 124, 42
+  orig: 128, 49
+  offset: 3, 3
+  index: -1
+The Seal of the Dead Sea4
+  rotate: false
+  xy: 2018, 1237
+  size: 36, 106
+  orig: 39, 110
+  offset: 1, 1
+  index: -1
+The Seal of the Dead Sea5
+  rotate: true
+  xy: 2347, 740
+  size: 79, 100
+  orig: 83, 104
+  offset: 2, 3
+  index: -1
+The Seal of the Dead Sea6
+  rotate: true
+  xy: 2924, 942
+  size: 188, 185
+  orig: 192, 193
+  offset: 2, 3
+  index: -1
+The Seal of the Dead Sea7
+  rotate: false
+  xy: 2962, 129
+  size: 116, 125
+  orig: 118, 129
+  offset: 1, 3
+  index: -1
+The Seal of the Dead Sea8
+  rotate: false
+  xy: 2347, 448
+  size: 291, 272
+  orig: 297, 281
+  offset: 1, 4
+  index: -1
+The Seal of the Dead Sea9
+  rotate: false
+  xy: 2072, 1801
+  size: 207, 209
+  orig: 214, 215
+  offset: 6, 5
+  index: -1
+arm
+  rotate: false
+  xy: 656, 18
+  size: 126, 167
+  orig: 1251, 1202
+  offset: 530, 630
+  index: -1
+background
+  rotate: false
+  xy: 1131, 2450
+  size: 960, 659
+  orig: 994, 661
+  offset: 12, 1
+  index: -1
+belt1
+  rotate: true
+  xy: 1924, 460
+  size: 359, 421
+  orig: 1251, 1202
+  offset: 742, 132
+  index: -1
+belt2
+  rotate: true
+  xy: 1774, 915
+  size: 428, 242
+  orig: 1251, 1202
+  offset: 800, 412
+  index: -1
+bimonthly
+  rotate: false
+  xy: 2927, 256
+  size: 166, 110
+  orig: 171, 116
+  offset: 3, 3
+  index: -1
+body
+  rotate: false
+  xy: 2313, 1765
+  size: 673, 822
+  orig: 1251, 1202
+  offset: 414, 78
+  index: -1
+cloak
+  rotate: true
+  xy: 1066, 17
+  size: 411, 638
+  orig: 1251, 1202
+  offset: 563, 88
+  index: -1
+eyeshark
+  rotate: false
+  xy: 2640, 451
+  size: 53, 73
+  orig: 1251, 1202
+  offset: 442, 676
+  index: -1
+fish
+  rotate: true
+  xy: 2703, 247
+  size: 277, 222
+  orig: 280, 224
+  offset: 1, 1
+  index: -1
+ghoust2
+  rotate: false
+  xy: 2, 187
+  size: 788, 755
+  orig: 1251, 1202
+  offset: 211, 405
+  index: -1
+hair1
+  rotate: false
+  xy: 1752, 1345
+  size: 318, 557
+  orig: 1251, 1202
+  offset: 293, 76
+  index: -1
+hair2
+  rotate: true
+  xy: 2072, 1235
+  size: 528, 541
+  orig: 1251, 1202
+  offset: 193, 48
+  index: -1
+hand1
+  rotate: false
+  xy: 2419, 5
+  size: 116, 140
+  orig: 1251, 1202
+  offset: 462, 760
+  index: -1
+hat
+  rotate: false
+  xy: 2640, 526
+  size: 255, 255
+  orig: 1251, 1202
+  offset: 426, 226
+  index: -1
+hat2
+  rotate: false
+  xy: 2897, 529
+  size: 191, 138
+  orig: 1251, 1202
+  offset: 346, 374
+  index: -1
+legs
+  rotate: false
+  xy: 1089, 1321
+  size: 661, 581
+  orig: 1251, 1202
+  offset: 426, 78
+  index: -1
+light
+  rotate: false
+  xy: 2, 944
+  size: 859, 966
+  orig: 1251, 1202
+  offset: 317, 26
+  index: -1
+light bg
+  rotate: false
+  xy: 2093, 2589
+  size: 992, 520
+  orig: 994, 593
+  offset: 1, 1
+  index: -1
+light1
+  rotate: false
+  xy: 1828, 10
+  size: 68, 42
+  orig: 1251, 1202
+  offset: 703, 881
+  index: -1
+light2
+  rotate: false
+  xy: 792, 228
+  size: 272, 714
+  orig: 1251, 1202
+  offset: 407, 197
+  index: -1
+note1
+  rotate: true
+  xy: 2537, 2
+  size: 134, 86
+  orig: 140, 91
+  offset: 3, 3
+  index: -1
+note2
+  rotate: false
+  xy: 3087, 3077
+  size: 22, 32
+  orig: 26, 36
+  offset: 2, 2
+  index: -1
+note3
+  rotate: true
+  xy: 2988, 2453
+  size: 134, 86
+  orig: 140, 91
+  offset: 3, 3
+  index: -1
+note4
+  rotate: false
+  xy: 1706, 7
+  size: 120, 109
+  orig: 129, 116
+  offset: 5, 3
+  index: -1
+note5
+  rotate: false
+  xy: 2625, 23
+  size: 62, 113
+  orig: 67, 118
+  offset: 2, 3
+  index: -1
+note6
+  rotate: false
+  xy: 2988, 2338
+  size: 62, 113
+  orig: 67, 118
+  offset: 3, 2
+  index: -1
+note7
+  rotate: true
+  xy: 1828, 54
+  size: 62, 113
+  orig: 67, 119
+  offset: 3, 3
+  index: -1
+note8
+  rotate: false
+  xy: 2988, 2223
+  size: 62, 113
+  orig: 67, 119
+  offset: 2, 3
+  index: -1
+saw parts
+  rotate: false
+  xy: 1089, 953
+  size: 683, 366
+  orig: 685, 402
+  offset: 1, 14
+  index: -1
+saw parts6
+  rotate: false
+  xy: 2615, 1132
+  size: 435, 364
+  orig: 1251, 1202
+  offset: 811, 502
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 25
+  size: 652, 160
+  orig: 1251, 1202
+  offset: 372, 19
+  index: -1
+shadow2
+  rotate: false
+  xy: 2, 1912
+  size: 1127, 1197
+  orig: 1251, 1202
+  offset: 123, 1
+  index: -1
+shadow3
+  rotate: false
+  xy: 1066, 430
+  size: 628, 521
+  orig: 1251, 1202
+  offset: 458, 347
+  index: -1
+sound wave
+  rotate: true
+  xy: 2018, 821
+  size: 412, 429
+  orig: 452, 452
+  offset: 19, 2
+  index: -1
+stain
+  rotate: false
+  xy: 2603, 783
+  size: 319, 347
+  orig: 322, 349
+  offset: 1, 1
+  index: -1
+stave
+  rotate: false
+  xy: 1131, 1904
+  size: 844, 106
+  orig: 850, 111
+  offset: 3, 3
+  index: -1
+string
+  rotate: true
+  xy: 863, 958
+  size: 952, 224
+  orig: 1251, 1202
+  offset: 173, 751
+  index: -1
+tentacle1
+  rotate: false
+  xy: 2924, 669
+  size: 184, 271
+  orig: 1251, 1202
+  offset: 1037, 582
+  index: -1
+tentacle2
+  rotate: true
+  xy: 2703, 118
+  size: 127, 257
+  orig: 1251, 1202
+  offset: 1075, 649
+  index: -1
+tie
+  rotate: true
+  xy: 863, 945
+  size: 11, 125
+  orig: 1251, 1202
+  offset: 509, 429
+  index: -1
+tune
+  rotate: false
+  xy: 2093, 2452
+  size: 178, 135
+  orig: 1251, 1202
+  offset: 967, 704
+  index: -1

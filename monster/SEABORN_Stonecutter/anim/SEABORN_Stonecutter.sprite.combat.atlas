@@ -1,0 +1,174 @@
+
+SEABORN_Stonecutter.sprite.combat.png
+size: 768,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 702, 537
+  size: 71, 64
+  orig: 73, 66
+  offset: 1, 1
+  index: -1
+face1
+  rotate: false
+  xy: 547, 60
+  size: 54, 60
+  orig: 56, 62
+  offset: 1, 1
+  index: -1
+face2
+  rotate: false
+  xy: 432, 539
+  size: 16, 33
+  orig: 18, 35
+  offset: 1, 1
+  index: -1
+face3
+  rotate: false
+  xy: 450, 548
+  size: 17, 24
+  orig: 19, 26
+  offset: 1, 1
+  index: -1
+face4
+  rotate: true
+  xy: 450, 535
+  size: 11, 25
+  orig: 14, 28
+  offset: 1, 2
+  index: -1
+head
+  rotate: false
+  xy: 328, 42
+  size: 93, 78
+  orig: 95, 81
+  offset: 1, 2
+  index: -1
+leg1
+  rotate: false
+  xy: 628, 203
+  size: 97, 182
+  orig: 99, 184
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: false
+  xy: 330, 531
+  size: 42, 41
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: false
+  xy: 252, 165
+  size: 68, 149
+  orig: 70, 151
+  offset: 1, 1
+  index: -1
+leg4
+  rotate: false
+  xy: 423, 11
+  size: 68, 49
+  orig: 70, 51
+  offset: 1, 1
+  index: -1
+leg5
+  rotate: false
+  xy: 702, 610
+  size: 64, 156
+  orig: 66, 158
+  offset: 1, 1
+  index: -1
+leg7
+  rotate: true
+  xy: 374, 532
+  size: 40, 56
+  orig: 42, 59
+  offset: 1, 1
+  index: -1
+leg8
+  rotate: true
+  xy: 423, 62
+  size: 58, 122
+  orig: 69, 124
+  offset: 10, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 649
+  size: 474, 117
+  orig: 477, 123
+  offset: 2, 2
+  index: -1
+shell
+  rotate: false
+  xy: 330, 122
+  size: 296, 403
+  orig: 379, 407
+  offset: 82, 2
+  index: -1
+spike1
+  rotate: false
+  xy: 478, 527
+  size: 222, 239
+  orig: 225, 241
+  offset: 2, 1
+  index: -1
+spike2
+  rotate: true
+  xy: 2, 316
+  size: 331, 326
+  orig: 333, 328
+  offset: 1, 1
+  index: -1
+spike3
+  rotate: true
+  xy: 2, 176
+  size: 138, 248
+  orig: 140, 250
+  offset: 1, 1
+  index: -1
+spike4
+  rotate: true
+  xy: 2, 24
+  size: 150, 199
+  orig: 152, 202
+  offset: 1, 2
+  index: -1
+tongs1
+  rotate: false
+  xy: 203, 40
+  size: 123, 123
+  orig: 125, 125
+  offset: 1, 1
+  index: -1
+tongs2
+  rotate: true
+  xy: 628, 387
+  size: 138, 121
+  orig: 140, 123
+  offset: 1, 1
+  index: -1
+tongs3
+  rotate: true
+  xy: 628, 66
+  size: 135, 94
+  orig: 137, 96
+  offset: 1, 1
+  index: -1
+tongs4
+  rotate: false
+  xy: 330, 574
+  size: 146, 73
+  orig: 148, 77
+  offset: 1, 3
+  index: -1
+tongs5
+  rotate: true
+  xy: 724, 152
+  size: 49, 31
+  orig: 52, 33
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>	
+
+	<language id="english">	
+	</language>
+
+	<language id="schinese">
+
+	<!-- 怪物种族 -->	
+    <entry id="enemy_type_name_SEABRON"><![CDATA[海嗣]]></entry>
+    <entry id="enemy_type_name_"><![CDATA[]]></entry>
+	<entry id="enemy_type_name_"><![CDATA[]]></entry>
+	<!-- 怪物名称 -->
+    <entry id="str_monstername_SEABRON_Ruckus_A">			 <![CDATA[荒海骚动者]]></entry>
+    <entry id="str_monstername_SEABRON_Ruckus_B">			 <![CDATA[荒海骚动者]]></entry>
+	<entry id="str_monstername_SEABRON_Ruckus_C">			 <![CDATA[荒海骚动者]]></entry>
+	<entry id="str_monstername_SEABORN_guardian_A">          <![CDATA[雷云守卫]]></entry>
+    <entry id="str_monstername_SEABORN_guardian_B">          <![CDATA[雷云守卫]]></entry>
+    <entry id="str_monstername_SEABORN_guardian_C">          <![CDATA[雷云守卫]]></entry>
+	<entry id="str_monstername_SEABRON_drifter_A">           <![CDATA[骨海漂流体]]></entry>
+    <entry id="str_monstername_SEABRON_drifter_B">           <![CDATA[骨海漂流体]]></entry>
+    <entry id="str_monstername_SEABRON_drifter_C">           <![CDATA[骨海漂流体]]></entry>
+    <entry id="str_monstername_SEABRON_Brood_A">             <![CDATA[投嗣育母]]></entry>
+    <entry id="str_monstername_SEABRON_Brood_B">             <![CDATA[投嗣育母]]></entry>
+    <entry id="str_monstername_SEABRON_Brood_C">             <![CDATA[投嗣育母]]></entry>
+	<entry id="str_monstername_SEABORN_SSdrifter_A">		 <![CDATA[掠海漂移体]]></entry>
+    <entry id="str_monstername_SEABORN_SSdrifter_B">		 <![CDATA[掠海漂移体]]></entry>
+    <entry id="str_monstername_SEABORN_SSdrifter_C">		 <![CDATA[掠海漂移体]]></entry>	
+    <entry id="str_monstername_SEABORN_Stonecutter_A">       <![CDATA[固海凿石者]]></entry>
+    <entry id="str_monstername_SEABORN_Stonecutter_B">       <![CDATA[固海凿石者]]></entry>
+    <entry id="str_monstername_SEABORN_Stonecutter_C">       <![CDATA[固海凿石者]]></entry>
+    <entry id="str_monstername_SEABORN_heroic_C">            <![CDATA[惊骇怒涛之幽魂]]></entry>
+    <entry id="str_monstername_SEABORN_affected_C">          <![CDATA[鸣渊长嚎之鬼魅]]></entry>
+
+
+	<!-- 怪物技能-->
+    <entry id="str_monster_skill_corneum_pricks">                   <![CDATA[角质穿刺]]></entry>
+    <entry id="str_monster_skill_dust_emission">                    <![CDATA[刨土]]></entry>
+    <entry id="str_monster_skill_excavate">                         <![CDATA[海底隧穿]]></entry>	
+	
+	<entry id="str_monster_skill_Scaphism_Sk1">                         <![CDATA[剧烈呕吐]]></entry>
+    <entry id="str_monster_skill_Scaphism_Sk2">                         <![CDATA[要来了！]]></entry>
+	<entry id="str_monster_skill_cimbalillo_Sk1">                       <![CDATA[渐进铃音]]></entry>
+    <entry id="str_monster_skill_cimbalillo_Sk2">                       <![CDATA[悲怆残响]]></entry>
+    <entry id="str_monster_skill_cimbalillo_Sk3">                       <![CDATA[寂静挽歌]]></entry>
+	<entry id="str_monster_skill_kindness_Sk1">                         <![CDATA[授身]]></entry>
+    <entry id="str_monster_skill_kindness_Sk2">                         <![CDATA[宽宥]]></entry>
+    <entry id="str_monster_skill_kindness_Sk3">                         <![CDATA[幽庇]]></entry>
+    <entry id="str_monster_skill_kindness_Sk4">                         <![CDATA[授身]]></entry>
+	<entry id="str_monster_skill_cannonimp_Skill_1">				    <![CDATA[装填]]></entry>
+    <entry id="str_monster_skill_cannonimp_Skill_2">					<![CDATA[轰扫]]></entry>
+    <entry id="str_monster_skill_cannonimp_Skill_3">				    <![CDATA[抵近炮击]]></entry>
+    <entry id="str_monster_skill_manewolfa_Sk1">                        <![CDATA[戕害]]></entry>
+    <entry id="str_monster_skill_manewolfa_Sk2">                        <![CDATA[不屈]]></entry>
+	<entry id="str_monster_skill_manewolfa_Sk3">                        <![CDATA[俱焚]]></entry>
+    <entry id="str_monster_skill_manewolfb_Sk1">                        <![CDATA[寻回]]></entry>
+	<entry id="str_monster_skill_MagicDoll_Skill_1">				    <![CDATA[猝不及防]]></entry>
+    <entry id="str_monster_skill_MagicDoll_Skill_2">					<![CDATA[隐入一角]]></entry>
+    <entry id="str_monster_skill_MagicDoll_Skill_3">				    <![CDATA[投掷{colour_start|new_lightning}雷电壶{colour_end}]]></entry>
+    <entry id="str_monster_skill_MagicDoll_Skill_4">					<![CDATA[投掷{colour_start|new_fire}火焰壶{colour_end}]]></entry>
+	<entry id="str_monster_skill_MagicDoll_Skill_5">				    <![CDATA[投掷{colour_start|new_mojo}魔力壶{colour_end}]]></entry>
+	
+    <entry id="buff_stat_tooltip_upgrade_discount_Notloaded"><![CDATA[未装填]]></entry>
+    <entry id="buff_stat_tooltip_upgrade_discount_Loaded"><![CDATA[已装填]]></entry>
+
+
+
+
+
+	<!--崇高怪癖-->
+    <entry id="str_quirk_name_kindness_quirk1"><![CDATA[谵妄]]></entry>
+	<entry id="str_quirk_name_kindness_quirk2"><![CDATA[]]></entry>
+	<!--崇高怪癖文本-->
+	<entry id="buff_stat_tooltip_upgrade_discount_kindness_quirk_TT1"><![CDATA[目光迷离,呢喃不止,神经兮兮
+不时会发出愚蠢的笑声
+崇高在场时：-50%%所受伤害]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_kindness_quirk_TT2"><![CDATA[-50%%伤害]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_kindness_quirk_TT3"><![CDATA[-25%%{colour_start|buff}全抗性{colour_end}]]></entry>
+    <entry id="buff_stat_tooltip_upgrade_discount_kindness_quirk_TT4"><![CDATA[在战斗中概率{colour_start|buff}守护{colour_end}其他队友]]></entry>
+	
+	<!--崇高怪癖进化喊话-->
+	<entry id="quirk_transition_kindness_quirk1_to_kindness_quirk2"><![CDATA[我感觉我的胃都要翻出来了...]]></entry>
+	<entry id="quirk_transition_kindness_quirk1_to_kindness_quirk2"><![CDATA[你们谁能给我的肚子上来一拳...]]></entry>
+	<entry id="quirk_transition_kindness_quirk1_to_kindness_quirk2"><![CDATA[我感觉我的胃都要翻出来了...]]></entry>
+	<entry id="quirk_transition_kindness_quirk1_to_kindness_quirk2"><![CDATA[让我...蹲一会]]></entry>
+	<entry id="quirk_transition_kindness_quirk1_to_kindness_quirk2"><![CDATA[你不该让任何人喝这种东西]]></entry>
+	<entry id="quirk_transition_kindness_quirk1_to_kindness_quirk2"><![CDATA[你自己喝吧,混蛋]]></entry>
+	
+	<!--崇高怪癖行为喊话-->
+	<entry id="str_comment_ally_hit_kindness_quirk1"><![CDATA[我们都将沐浴在福音之中！]]></entry>
+	<entry id="str_comment_ally_hit_kindness_quirk1"><![CDATA[若你们无罪,便朝他投石吧]]></entry>
+	<entry id="str_comment_ally_hit_kindness_quirk1"><![CDATA[感激你予我的苦痛]]></entry>
+	<entry id="str_comment_ally_hit_kindness_quirk1"><![CDATA[（神经兮兮的笑声）]]></entry>
+	<entry id="str_comment_ally_hit_kindness_quirk1"><![CDATA[来吧,你与我一同在神的光芒中行走]]></entry>
+    <entry id="str_comment_ally_hit_kindness_quirk1"><![CDATA[求你向我显出恩待我的凭据,叫恨我的人看见便感到羞愧.]]></entry>
+	
+	<!--咒蛙怪癖-->
+    <entry id="str_quirk_name_basilisk_curse_you"><![CDATA[死亡咒痕]]></entry>
+	<entry id="str_quirk_name_FHmonster_death_cult"><![CDATA[死亡信仰]]></entry>
+	
+	<!--咒蛙怪癖文本-->
+	<entry id="buff_stat_tooltip_upgrade_discount_basilisk_curse_tt_1"><![CDATA[{colour_start|new_dark_red}死亡的种子刺破皮肤，爬入骨髓，异物在皮下涌动{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_FHmonster_death_cult_tt_1"><![CDATA[{colour_start|new_golden}此乃死亡的温床{colour_end}]]></entry>
+	
+	<!--咒蛙怪癖进化喊话-->
+	<entry id="quirk_transition_basilisk_curse_you_to_FHmonster_death_cult"><![CDATA[有东西在我的皮肤下面蠕动]]></entry>	
+	<entry id="quirk_transition_basilisk_curse_you_to_FHmonster_death_cult"><![CDATA[腐败的甜味...]]></entry>
+	<entry id="quirk_transition_basilisk_curse_you_to_FHmonster_death_cult"><![CDATA[*咳嗽*]]></entry>
+	<entry id="quirk_transition_basilisk_curse_you_to_FHmonster_death_cult"><![CDATA[死亡...甘之如饴]]></entry>
+	
+
+	<!-- 道具-->		
+	<entry id="str_inventory_title_estateStrelty_box"><![CDATA[帆布药袋]]></entry>
+	<entry id="str_inventory_description_estateStrelty_box"><![CDATA[粗糙的帆布口袋，到处是破洞和线头用红线织就的十字标明了归属。]]></entry>
+	
+	<entry id="str_inventory_title_estateStrelty_cheese"><![CDATA[艾达干酪]]></entry>
+	<entry id="str_inventory_description_estateStrelty_cheese"><![CDATA[胶状质地的香草奶酪。与其说军粮，不如说是消遣品。]]></entry>
+
+	<entry id="str_inventory_title_supplyStrelty_pie"><![CDATA[行军肉派]]></entry>
+	<entry id="str_inventory_description_supplyStrelty_pie"><![CDATA[又咸又油，包入了手边一切食材的肉派。一次吃完就太奢侈了吧？]]></entry>
+	
+	<entry id="str_inventory_title_estatecimbalillo_loot1"><![CDATA[百里香束]]></entry>
+    <entry id="str_inventory_description_estatecimbalillo_loot1"><![CDATA[患重疾者久病成医
+即使治愈希望渺茫
+
+也可用于缓解压力
+]]></entry>
+
+	<entry id="str_inventory_title_estatekindness_loot1"><![CDATA[黄金利口]]></entry>
+	<entry id="str_inventory_description_estatekindness_loot1"><![CDATA[前调甜如锈铁
+中调酸如胃液
+后调苦如胆汁]]></entry>
+
+    <entry id="str_inventory_title_estateFHbasilisk_dead_eyes"><![CDATA[死者眼眸]]></entry>		
+	<entry id="str_inventory_description_estateFHbasilisk_dead_eyes"><![CDATA[半神中的初始死者，其无光的眼眸睥睨一切{colour_start|new_mark}灾厄{colour_end}
+铭记死亡律法的本质：生命从死亡中重生
+{colour_start|new_dark_gray}使用后可以短暂看穿隐藏在阴影下的敌人{colour_end}]]></entry>
+
+    <entry id="str_inventory_title_estateGolden_centipede"><![CDATA[{colour_start|new_golden}黄金百足{colour_end}]]></entry>	
+	<entry id="str_inventory_description_estateGolden_centipede"><![CDATA[干缩的金黄色蜈蚣尸体，
+此为黄金律法的基本主义者
+其中狩猎死诞者的人们拥有的诅咒物
+{colour_start|new_dark_gray}若是身怀某种诅咒，则可以净化该诅咒{colour_end}]]></entry>
+
+	<!-- <Trinkets>// -->
+	<entry id="str_inventory_title_trinketcim_tri_1"><![CDATA[忌讳铃铛]]></entry>
+	<entry id="str_inventory_title_trinketcim_tri_2"><![CDATA[亲吻布巾]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT1"><![CDATA[
+{colour_start|skill_unselectable}相隔层叠的丝巾，家人献上永别前的一吻{colour_end}
+]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT2"><![CDATA[{colour_start|skill_unselectable}请您忍耐病痛{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT3"><![CDATA[{colour_start|skill_unselectable}请您忘却过往{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT4"><![CDATA[{colour_start|skill_unselectable}请您踏上道路{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT5"><![CDATA[{colour_start|skill_unselectable}请您寻求救赎{colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT6"><![CDATA[{colour_start|skill_unselectable}渐近的铃声稍来讯息{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT7"><![CDATA[{colour_start|skill_unselectable}我罪深重，无可救药{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_cim_TT8"><![CDATA[{colour_start|skill_unselectable}烦请诸位，即刻远离{colour_end}
+]]></entry>
+
+	</language>
+</root>
+

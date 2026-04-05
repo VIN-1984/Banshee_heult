@@ -1,0 +1,76 @@
+
+SEABORN_Stonecutter.sprite.defend.png
+size: 940,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 567, 335
+  size: 58, 39
+  orig: 65, 45
+  offset: 3, 3
+  index: -1
+eye light
+  rotate: true
+  xy: 532, 15
+  size: 93, 75
+  orig: 108, 91
+  offset: 8, 9
+  index: -1
+flash1
+  rotate: false
+  xy: 609, 31
+  size: 83, 118
+  orig: 87, 121
+  offset: 2, 2
+  index: -1
+flash2
+  rotate: true
+  xy: 443, 2
+  size: 106, 87
+  orig: 110, 91
+  offset: 2, 2
+  index: -1
+flash3
+  rotate: false
+  xy: 443, 110
+  size: 129, 207
+  orig: 134, 211
+  offset: 3, 2
+  index: -1
+flash4
+  rotate: true
+  xy: 574, 151
+  size: 182, 151
+  orig: 185, 156
+  offset: 1, 2
+  index: -1
+flash5
+  rotate: true
+  xy: 210, 36
+  size: 281, 231
+  orig: 286, 239
+  offset: 3, 2
+  index: -1
+flash6
+  rotate: false
+  xy: 2, 29
+  size: 206, 288
+  orig: 212, 294
+  offset: 3, 4
+  index: -1
+shadow
+  rotate: true
+  xy: 567, 376
+  size: 562, 138
+  orig: 565, 146
+  offset: 2, 2
+  index: -1
+spike4
+  rotate: false
+  xy: 2, 319
+  size: 563, 619
+  orig: 565, 622
+  offset: 1, 2
+  index: -1

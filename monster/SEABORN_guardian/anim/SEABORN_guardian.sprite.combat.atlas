@@ -1,0 +1,188 @@
+
+SEABORN_guardian.sprite.combat.png
+size: 1506,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 827, 1243
+  size: 261, 672
+  orig: 261, 674
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 598, 730
+  size: 220, 568
+  orig: 220, 569
+  offset: 0, 1
+  index: -1
+blister
+  rotate: true
+  xy: 1119, 784
+  size: 457, 367
+  orig: 458, 380
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 1119, 377
+  size: 405, 363
+  orig: 413, 375
+  offset: 1, 1
+  index: -1
+candle1
+  rotate: false
+  xy: 519, 519
+  size: 39, 111
+  orig: 41, 113
+  offset: 1, 1
+  index: -1
+candle2
+  rotate: false
+  xy: 665, 514
+  size: 28, 37
+  orig: 30, 40
+  offset: 1, 1
+  index: -1
+candle3
+  rotate: false
+  xy: 695, 520
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+candle4
+  rotate: false
+  xy: 519, 751
+  size: 52, 123
+  orig: 55, 126
+  offset: 1, 2
+  index: -1
+candle5
+  rotate: false
+  xy: 519, 876
+  size: 61, 129
+  orig: 63, 132
+  offset: 1, 1
+  index: -1
+candle6
+  rotate: false
+  xy: 572, 647
+  size: 31, 81
+  orig: 33, 83
+  offset: 1, 1
+  index: -1
+candle7
+  rotate: false
+  xy: 519, 632
+  size: 51, 117
+  orig: 54, 121
+  offset: 2, 2
+  index: -1
+candlelight1
+  rotate: false
+  xy: 573, 787
+  size: 17, 37
+  orig: 19, 39
+  offset: 1, 1
+  index: -1
+candlelight2
+  rotate: false
+  xy: 573, 826
+  size: 19, 48
+  orig: 22, 50
+  offset: 1, 1
+  index: -1
+candlelight3
+  rotate: false
+  xy: 573, 749
+  size: 15, 36
+  orig: 17, 38
+  offset: 1, 1
+  index: -1
+chain
+  rotate: false
+  xy: 820, 757
+  size: 297, 484
+  orig: 299, 487
+  offset: 1, 2
+  index: -1
+cloak
+  rotate: false
+  xy: 2, 1007
+  size: 594, 291
+  orig: 595, 291
+  offset: 1, 0
+  index: -1
+cloak bg
+  rotate: true
+  xy: 2, 509
+  size: 496, 515
+  orig: 496, 515
+  offset: 0, 0
+  index: -1
+evil influence
+  rotate: true
+  xy: 506, 14
+  size: 493, 215
+  orig: 533, 255
+  offset: 13, 18
+  index: -1
+head
+  rotate: false
+  xy: 826, 427
+  size: 291, 328
+  orig: 293, 330
+  offset: 1, 1
+  index: -1
+kelp
+  rotate: false
+  xy: 2, 2
+  size: 502, 505
+  orig: 502, 505
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 723, 2
+  size: 128, 423
+  orig: 128, 423
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 853, 20
+  size: 235, 355
+  orig: 235, 356
+  offset: 0, 1
+  index: -1
+light
+  rotate: false
+  xy: 1090, 85
+  size: 280, 290
+  orig: 337, 345
+  offset: 25, 29
+  index: -1
+sealing wax1
+  rotate: false
+  xy: 665, 553
+  size: 159, 175
+  orig: 161, 177
+  offset: 1, 1
+  index: -1
+sealing wax2
+  rotate: false
+  xy: 560, 527
+  size: 103, 103
+  orig: 105, 105
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1300
+  size: 823, 204
+  orig: 826, 211
+  offset: 2, 1
+  index: -1

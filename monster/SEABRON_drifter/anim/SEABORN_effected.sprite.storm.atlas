@@ -1,0 +1,76 @@
+
+SEABORN_effected.sprite.storm.png
+size: 1423,1423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark
+  rotate: true
+  xy: 780, 713
+  size: 708, 641
+  orig: 766, 693
+  offset: 57, 51
+  index: -1
+fins2
+  rotate: true
+  xy: 1068, 241
+  size: 296, 291
+  orig: 298, 293
+  offset: 1, 1
+  index: -1
+iridescence1
+  rotate: false
+  xy: 2, 51
+  size: 320, 305
+  orig: 325, 307
+  offset: 2, 1
+  index: -1
+light
+  rotate: true
+  xy: 2, 358
+  size: 579, 536
+  orig: 617, 575
+  offset: 36, 25
+  index: -1
+scale1
+  rotate: false
+  xy: 2, 939
+  size: 776, 482
+  orig: 800, 493
+  offset: 16, 8
+  index: -1
+scale2
+  rotate: false
+  xy: 737, 539
+  size: 639, 172
+  orig: 669, 175
+  offset: 18, 2
+  index: -1
+scale3
+  rotate: false
+  xy: 324, 24
+  size: 468, 170
+  orig: 498, 176
+  offset: 23, 5
+  index: -1
+scale4
+  rotate: false
+  xy: 540, 196
+  size: 526, 193
+  orig: 559, 203
+  offset: 25, 8
+  index: -1
+scale5
+  rotate: true
+  xy: 540, 391
+  size: 546, 195
+  orig: 577, 202
+  offset: 20, 5
+  index: -1
+shadow
+  rotate: false
+  xy: 794, 88
+  size: 430, 106
+  orig: 432, 111
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,125 @@
+
+SEABORN_guardian.sprite.intensify.png
+size: 1911,1911
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candle7
+  rotate: false
+  xy: 1616, 142
+  size: 152, 345
+  orig: 154, 348
+  offset: 1, 2
+  index: -1
+cloak
+  rotate: false
+  xy: 856, 927
+  size: 852, 982
+  orig: 855, 1011
+  offset: 2, 28
+  index: -1
+cloak2
+  rotate: false
+  xy: 2, 808
+  size: 852, 1101
+  orig: 855, 1103
+  offset: 2, 1
+  index: -1
+elight
+  rotate: false
+  xy: 856, 911
+  size: 22, 14
+  orig: 24, 16
+  offset: 1, 1
+  index: -1
+facelight
+  rotate: true
+  xy: 1616, 16
+  size: 124, 141
+  orig: 131, 148
+  offset: 4, 4
+  index: -1
+hand1
+  rotate: false
+  xy: 1302, 358
+  size: 302, 567
+  orig: 381, 621
+  offset: 42, 24
+  index: -1
+hand1light
+  rotate: true
+  xy: 930, 63
+  size: 258, 408
+  orig: 265, 416
+  offset: 3, 4
+  index: -1
+hand2
+  rotate: false
+  xy: 930, 323
+  size: 370, 602
+  orig: 389, 620
+  offset: 18, 1
+  index: -1
+hand2light
+  rotate: true
+  xy: 455, 19
+  size: 263, 435
+  orig: 272, 443
+  offset: 4, 4
+  index: -1
+light
+  rotate: false
+  xy: 1340, 71
+  size: 274, 285
+  orig: 331, 339
+  offset: 25, 29
+  index: -1
+minlight
+  rotate: true
+  xy: 2, 284
+  size: 522, 926
+  orig: 536, 942
+  offset: 7, 8
+  index: -1
+shadow
+  rotate: true
+  xy: 1710, 1103
+  size: 806, 199
+  orig: 809, 206
+  offset: 2, 1
+  index: -1
+spark1
+  rotate: true
+  xy: 2, 8
+  size: 274, 451
+  orig: 281, 454
+  offset: 5, 2
+  index: -1
+spark2
+  rotate: false
+  xy: 1606, 489
+  size: 165, 436
+  orig: 168, 441
+  offset: 2, 3
+  index: -1
+spark3
+  rotate: false
+  xy: 1773, 762
+  size: 121, 193
+  orig: 125, 197
+  offset: 2, 2
+  index: -1
+spark4
+  rotate: false
+  xy: 1710, 957
+  size: 189, 144
+  orig: 194, 147
+  offset: 2, 2
+  index: -1
+spark5
+  rotate: true
+  xy: 1773, 564
+  size: 196, 113
+  orig: 200, 117
+  offset: 2, 2
+  index: -1

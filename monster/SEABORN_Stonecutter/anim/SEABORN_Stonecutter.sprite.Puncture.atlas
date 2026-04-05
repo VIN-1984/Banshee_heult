@@ -1,0 +1,97 @@
+
+SEABORN_Stonecutter.sprite.Puncture.png
+size: 1401,1401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark
+  rotate: false
+  xy: 527, 521
+  size: 518, 394
+  orig: 521, 396
+  offset: 2, 1
+  index: -1
+flash 3
+  rotate: true
+  xy: 397, 32
+  size: 487, 276
+  orig: 492, 282
+  offset: 1, 4
+  index: -1
+flash x
+  rotate: true
+  xy: 675, 52
+  size: 467, 223
+  orig: 470, 229
+  offset: 1, 5
+  index: -1
+flash1
+  rotate: false
+  xy: 2, 885
+  size: 523, 379
+  orig: 532, 390
+  offset: 7, 3
+  index: -1
+flash2
+  rotate: true
+  xy: 1075, 1299
+  size: 100, 324
+  orig: 131, 326
+  offset: 2, 1
+  index: -1
+flash4
+  rotate: false
+  xy: 900, 55
+  size: 448, 151
+  orig: 450, 185
+  offset: 1, 3
+  index: -1
+light
+  rotate: true
+  xy: 1075, 828
+  size: 469, 297
+  orig: 474, 301
+  offset: 2, 2
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1266
+  size: 540, 133
+  orig: 543, 139
+  offset: 2, 1
+  index: -1
+spike1
+  rotate: true
+  xy: 1047, 413
+  size: 413, 341
+  orig: 415, 344
+  offset: 1, 1
+  index: -1
+spike2
+  rotate: true
+  xy: 544, 917
+  size: 482, 529
+  orig: 484, 532
+  offset: 1, 2
+  index: -1
+spike3
+  rotate: true
+  xy: 2, 605
+  size: 278, 446
+  orig: 280, 456
+  offset: 1, 8
+  index: -1
+spike4
+  rotate: false
+  xy: 900, 208
+  size: 448, 203
+  orig: 450, 206
+  offset: 1, 1
+  index: -1
+tongs5
+  rotate: true
+  xy: 2, 4
+  size: 515, 393
+  orig: 519, 395
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,132 @@
+
+SEABORN_Stonecutter.sprite.excavate.png
+size: 1593,1593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stone fragments2
+  rotate: false
+  xy: 2, 376
+  size: 814, 169
+  orig: 818, 172
+  offset: 2, 1
+  index: -1
+Stone fragments3
+  rotate: false
+  xy: 2, 259
+  size: 714, 115
+  orig: 717, 117
+  offset: 1, 1
+  index: -1
+dust1
+  rotate: false
+  xy: 2, 1065
+  size: 1068, 526
+  orig: 1072, 534
+  offset: 2, 2
+  index: -1
+dust2
+  rotate: false
+  xy: 1043, 84
+  size: 340, 331
+  orig: 350, 347
+  offset: 4, 7
+  index: -1
+dust3
+  rotate: true
+  xy: 1043, 417
+  size: 542, 511
+  orig: 554, 519
+  offset: 5, 1
+  index: -1
+dust4
+  rotate: false
+  xy: 2, 547
+  size: 836, 516
+  orig: 840, 528
+  offset: 2, 7
+  index: -1
+rook1
+  rotate: false
+  xy: 1385, 31
+  size: 97, 90
+  orig: 100, 102
+  offset: 2, 10
+  index: -1
+rook2
+  rotate: true
+  xy: 1484, 20
+  size: 101, 77
+  orig: 105, 84
+  offset: 2, 6
+  index: -1
+rook3
+  rotate: false
+  xy: 718, 328
+  size: 90, 46
+  orig: 105, 52
+  offset: 13, 1
+  index: -1
+rook4
+  rotate: true
+  xy: 718, 274
+  size: 52, 89
+  orig: 59, 105
+  offset: 5, 14
+  index: -1
+rook5
+  rotate: false
+  xy: 1556, 893
+  size: 34, 66
+  orig: 37, 69
+  offset: 2, 1
+  index: -1
+rook6
+  rotate: false
+  xy: 825, 189
+  size: 42, 53
+  orig: 45, 55
+  offset: 2, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 840, 244
+  size: 819, 201
+  orig: 822, 210
+  offset: 2, 2
+  index: -1
+shell
+  rotate: true
+  xy: 1072, 961
+  size: 630, 519
+  orig: 632, 521
+  offset: 1, 1
+  index: -1
+tongs1
+  rotate: true
+  xy: 2, 25
+  size: 232, 238
+  orig: 234, 240
+  offset: 1, 1
+  index: -1
+tongs2
+  rotate: false
+  xy: 523, 78
+  size: 300, 179
+  orig: 303, 181
+  offset: 2, 1
+  index: -1
+tongs3
+  rotate: false
+  xy: 1385, 123
+  size: 193, 292
+  orig: 195, 295
+  offset: 1, 1
+  index: -1
+tongs4
+  rotate: false
+  xy: 242, 40
+  size: 279, 217
+  orig: 281, 220
+  offset: 1, 1
+  index: -1

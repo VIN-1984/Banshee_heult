@@ -1,0 +1,349 @@
+
+SEABORN_heroic.sprite.combat.png
+size: 3301,3301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Headdress1
+  rotate: true
+  xy: 605, 66
+  size: 779, 325
+  orig: 1945, 1202
+  offset: 867, 668
+  index: -1
+Headdress2
+  rotate: true
+  xy: 1572, 1697
+  size: 740, 632
+  orig: 1945, 1202
+  offset: 877, 336
+  index: -1
+Headdress3
+  rotate: true
+  xy: 1791, 422
+  size: 735, 321
+  orig: 1945, 1202
+  offset: 891, 795
+  index: -1
+Headdress4
+  rotate: false
+  xy: 2251, 2720
+  size: 906, 579
+  orig: 1945, 1202
+  offset: 877, 524
+  index: -1
+Iron Crown1
+  rotate: false
+  xy: 2576, 158
+  size: 330, 244
+  orig: 1945, 1202
+  offset: 1362, 591
+  index: -1
+Iron Crown2
+  rotate: false
+  xy: 2908, 230
+  size: 265, 231
+  orig: 1945, 1202
+  offset: 1372, 532
+  index: -1
+Iron Crown3
+  rotate: false
+  xy: 1161, 8
+  size: 238, 177
+  orig: 1945, 1202
+  offset: 782, 980
+  index: -1
+Iron Crown4
+  rotate: false
+  xy: 1337, 1172
+  size: 176, 141
+  orig: 1945, 1202
+  offset: 793, 965
+  index: -1
+Nautilus decoration
+  rotate: true
+  xy: 932, 2
+  size: 183, 227
+  orig: 1945, 1202
+  offset: 849, 825
+  index: -1
+arm1
+  rotate: false
+  xy: 2908, 67
+  size: 258, 161
+  orig: 1945, 1202
+  offset: 626, 659
+  index: -1
+arm2
+  rotate: true
+  xy: 3159, 2706
+  size: 148, 93
+  orig: 1945, 1202
+  offset: 634, 666
+  index: -1
+arm3
+  rotate: true
+  xy: 2839, 823
+  size: 208, 329
+  orig: 1945, 1202
+  offset: 900, 433
+  index: -1
+body
+  rotate: true
+  xy: 2206, 1669
+  size: 533, 812
+  orig: 1945, 1202
+  offset: 694, 96
+  index: -1
+bowtie
+  rotate: false
+  xy: 2710, 36
+  size: 152, 120
+  orig: 1945, 1202
+  offset: 758, 438
+  index: -1
+candle1
+  rotate: true
+  xy: 1430, 121
+  size: 245, 409
+  orig: 1945, 1202
+  offset: 565, 278
+  index: -1
+candle2
+  rotate: true
+  xy: 2165, 158
+  size: 244, 409
+  orig: 1945, 1202
+  offset: 1041, 393
+  index: -1
+chainsaw shadow
+  rotate: false
+  xy: 2251, 2204
+  size: 881, 514
+  orig: 1945, 1202
+  offset: 91, 1
+  index: -1
+chainsaw shadow 2
+  rotate: false
+  xy: 1412, 2439
+  size: 837, 860
+  orig: 1945, 1202
+  offset: 68, 105
+  index: -1
+chainsaw1
+  rotate: true
+  xy: 2, 847
+  size: 1531, 609
+  orig: 1945, 1202
+  offset: 218, 105
+  index: -1
+chainsaw2
+  rotate: true
+  xy: 2147, 1669
+  size: 26, 27
+  orig: 1945, 1202
+  offset: 562, 310
+  index: -1
+chainsaw3
+  rotate: true
+  xy: 3020, 1739
+  size: 463, 185
+  orig: 1945, 1202
+  offset: 522, 290
+  index: -1
+chainsaw4
+  rotate: true
+  xy: 3159, 3055
+  size: 244, 137
+  orig: 1945, 1202
+  offset: 344, 229
+  index: -1
+chainsaw5
+  rotate: false
+  xy: 3134, 2532
+  size: 159, 172
+  orig: 1945, 1202
+  offset: 261, 144
+  index: -1
+chainsaw6
+  rotate: false
+  xy: 3134, 2416
+  size: 114, 114
+  orig: 1945, 1202
+  offset: 515, 267
+  index: -1
+chainsaw7
+  rotate: true
+  xy: 2913, 463
+  size: 358, 262
+  orig: 1945, 1202
+  offset: 263, 141
+  index: -1
+chainsaw8
+  rotate: true
+  xy: 1841, 2
+  size: 400, 322
+  orig: 1945, 1202
+  offset: 235, 117
+  index: -1
+chainsaw9
+  rotate: false
+  xy: 1572, 1159
+  size: 573, 536
+  orig: 1945, 1202
+  offset: 72, 2
+  index: -1
+copper wire1
+  rotate: true
+  xy: 1248, 223
+  size: 811, 180
+  orig: 1945, 1202
+  offset: 954, 620
+  index: -1
+copper wire2
+  rotate: true
+  xy: 1430, 368
+  size: 789, 359
+  orig: 1945, 1202
+  offset: 962, 537
+  index: -1
+copper wire3
+  rotate: false
+  xy: 2114, 550
+  size: 797, 259
+  orig: 1945, 1202
+  offset: 945, 434
+  index: -1
+copper wire4
+  rotate: true
+  xy: 932, 187
+  size: 847, 314
+  orig: 1945, 1202
+  offset: 928, 339
+  index: -1
+energy
+  rotate: false
+  xy: 2, 2380
+  size: 1408, 919
+  orig: 1945, 1202
+  offset: 362, 175
+  index: -1
+eye shark
+  rotate: false
+  xy: 1337, 1060
+  size: 81, 110
+  orig: 1945, 1202
+  offset: 516, 564
+  index: -1
+eyebrow
+  rotate: true
+  xy: 2903, 516
+  size: 32, 8
+  orig: 1945, 1202
+  offset: 789, 889
+  index: -1
+hair1
+  rotate: true
+  xy: 2, 82
+  size: 763, 601
+  orig: 1945, 1202
+  offset: 864, 431
+  index: -1
+hair3
+  rotate: false
+  xy: 2147, 1111
+  size: 714, 556
+  orig: 1945, 1202
+  offset: 795, 321
+  index: -1
+hand
+  rotate: false
+  xy: 2, 10
+  size: 93, 70
+  orig: 1945, 1202
+  offset: 1007, 423
+  index: -1
+head
+  rotate: false
+  xy: 613, 856
+  size: 240, 285
+  orig: 1945, 1202
+  offset: 733, 792
+  index: -1
+headwear1
+  rotate: false
+  xy: 3159, 2856
+  size: 81, 197
+  orig: 1945, 1202
+  offset: 892, 679
+  index: -1
+headwear2
+  rotate: false
+  xy: 2541, 13
+  size: 167, 143
+  orig: 1945, 1202
+  offset: 892, 750
+  index: -1
+headwear3
+  rotate: false
+  xy: 2828, 466
+  size: 73, 82
+  orig: 1945, 1202
+  offset: 796, 995
+  index: -1
+ribbon1
+  rotate: true
+  xy: 2863, 1033
+  size: 634, 246
+  orig: 1945, 1202
+  offset: 925, 859
+  index: -1
+ribbon2
+  rotate: true
+  xy: 1337, 1315
+  size: 1063, 233
+  orig: 1945, 1202
+  offset: 865, 344
+  index: -1
+rock
+  rotate: false
+  xy: 2114, 404
+  size: 712, 144
+  orig: 1945, 1202
+  offset: 23, 47
+  index: -1
+shadow
+  rotate: true
+  xy: 613, 1143
+  size: 1235, 306
+  orig: 1945, 1202
+  offset: 240, 8
+  index: -1
+skirt1
+  rotate: true
+  xy: 921, 1396
+  size: 982, 414
+  orig: 1945, 1202
+  offset: 745, 146
+  index: -1
+skirt2
+  rotate: false
+  xy: 921, 1036
+  size: 414, 358
+  orig: 1945, 1202
+  offset: 589, 71
+  index: -1
+skirt3
+  rotate: false
+  xy: 2114, 811
+  size: 723, 298
+  orig: 1945, 1202
+  offset: 798, 101
+  index: -1
+skirt4
+  rotate: true
+  xy: 2165, 14
+  size: 142, 374
+  orig: 1945, 1202
+  offset: 682, 143
+  index: -1

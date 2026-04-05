@@ -1,0 +1,195 @@
+
+SEABORN_effected.sprite.flash.png
+size: 1398,1398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bone
+  rotate: true
+  xy: 1199, 322
+  size: 230, 144
+  orig: 232, 146
+  offset: 1, 1
+  index: -1
+fins1
+  rotate: true
+  xy: 910, 738
+  size: 74, 147
+  orig: 77, 149
+  offset: 1, 1
+  index: -1
+fins2
+  rotate: true
+  xy: 1070, 776
+  size: 221, 313
+  orig: 223, 316
+  offset: 1, 2
+  index: -1
+flash3
+  rotate: false
+  xy: 848, 345
+  size: 349, 361
+  orig: 357, 369
+  offset: 5, 5
+  index: -1
+iridescence1
+  rotate: false
+  xy: 2, 712
+  size: 483, 684
+  orig: 485, 688
+  offset: 1, 1
+  index: -1
+iridescence2
+  rotate: false
+  xy: 2, 298
+  size: 428, 412
+  orig: 440, 416
+  offset: 1, 2
+  index: -1
+iridescence3
+  rotate: true
+  xy: 432, 163
+  size: 173, 390
+  orig: 220, 461
+  offset: 4, 47
+  index: -1
+iridescence4
+  rotate: true
+  xy: 2, 43
+  size: 253, 376
+  orig: 293, 419
+  offset: 9, 27
+  index: -1
+iridescence5
+  rotate: false
+  xy: 1070, 999
+  size: 309, 397
+  orig: 350, 423
+  offset: 14, 18
+  index: -1
+iridescence6
+  rotate: true
+  xy: 432, 338
+  size: 368, 414
+  orig: 412, 442
+  offset: 23, 19
+  index: -1
+light1
+  rotate: true
+  xy: 1103, 65
+  size: 221, 220
+  orig: 272, 264
+  offset: 47, 39
+  index: -1
+light2
+  rotate: false
+  xy: 848, 288
+  size: 314, 55
+  orig: 343, 65
+  offset: 20, 5
+  index: -1
+light3
+  rotate: false
+  xy: 2, 6
+  size: 291, 35
+  orig: 314, 45
+  offset: 18, 3
+  index: -1
+light4
+  rotate: false
+  xy: 1199, 554
+  size: 181, 220
+  orig: 201, 244
+  offset: 15, 20
+  index: -1
+light5
+  rotate: false
+  xy: 824, 40
+  size: 277, 246
+  orig: 343, 288
+  offset: 59, 35
+  index: -1
+light6
+  rotate: false
+  xy: 487, 814
+  size: 581, 582
+  orig: 584, 584
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 487, 708
+  size: 421, 104
+  orig: 424, 109
+  offset: 1, 1
+  index: -1
+star1
+  rotate: false
+  xy: 1164, 288
+  size: 35, 32
+  orig: 41, 48
+  offset: 3, 12
+  index: -1
+star10
+  rotate: false
+  xy: 1237, 17
+  size: 47, 46
+  orig: 55, 54
+  offset: 4, 5
+  index: -1
+star2
+  rotate: false
+  xy: 1275, 288
+  size: 34, 32
+  orig: 42, 47
+  offset: 4, 12
+  index: -1
+star3
+  rotate: false
+  xy: 1201, 288
+  size: 35, 32
+  orig: 42, 47
+  offset: 3, 12
+  index: -1
+star4
+  rotate: false
+  xy: 1238, 288
+  size: 35, 32
+  orig: 42, 48
+  offset: 3, 13
+  index: -1
+star5
+  rotate: true
+  xy: 1059, 708
+  size: 66, 62
+  orig: 75, 82
+  offset: 6, 15
+  index: -1
+star6
+  rotate: false
+  xy: 1123, 712
+  size: 65, 62
+  orig: 74, 81
+  offset: 6, 15
+  index: -1
+star7
+  rotate: false
+  xy: 1103, 2
+  size: 65, 61
+  orig: 75, 81
+  offset: 6, 15
+  index: -1
+star8
+  rotate: false
+  xy: 1170, 2
+  size: 65, 61
+  orig: 74, 81
+  offset: 6, 15
+  index: -1
+star9
+  rotate: false
+  xy: 380, 250
+  size: 47, 46
+  orig: 55, 54
+  offset: 4, 5
+  index: -1

@@ -1,0 +1,237 @@
+
+SEABORN_heroic.sprite.curse.png
+size: 3287,3287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2330, 1773
+  size: 729, 685
+  orig: 2402, 1202
+  offset: 793, 1
+  index: -1
+2
+  rotate: false
+  xy: 1179, 1384
+  size: 956, 679
+  orig: 2402, 1202
+  offset: 720, 1
+  index: -1
+Iron Crown3
+  rotate: false
+  xy: 979, 352
+  size: 953, 548
+  orig: 2402, 1202
+  offset: 732, 645
+  index: -1
+Iron Crown4
+  rotate: true
+  xy: 1934, 343
+  size: 557, 515
+  orig: 2402, 1202
+  offset: 918, 544
+  index: -1
+Virgin Mary`s crown1
+  rotate: true
+  xy: 2822, 961
+  size: 477, 275
+  orig: 1199, 600
+  offset: 365, 321
+  index: -1
+Virgin Mary`s crown2
+  rotate: true
+  xy: 2813, 79
+  size: 279, 259
+  orig: 1199, 600
+  offset: 458, 271
+  index: -1
+arm1
+  rotate: false
+  xy: 2294, 2
+  size: 181, 339
+  orig: 2402, 1202
+  offset: 512, 1
+  index: -1
+arm2
+  rotate: false
+  xy: 3074, 76
+  size: 177, 340
+  orig: 2402, 1202
+  offset: 1718, 1
+  index: -1
+background
+  rotate: false
+  xy: 2477, 48
+  size: 334, 310
+  orig: 639, 320
+  offset: 152, 6
+  index: -1
+black
+  rotate: true
+  xy: 2595, 1398
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+bloodtear
+  rotate: true
+  xy: 3140, 2219
+  size: 239, 121
+  orig: 2402, 1202
+  offset: 1083, 414
+  index: -1
+body
+  rotate: false
+  xy: 2140, 952
+  size: 680, 444
+  orig: 2402, 1202
+  offset: 864, 1
+  index: -1
+color1
+  rotate: true
+  xy: 2617, 1398
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2140, 928
+  size: 242, 22
+  orig: 2402, 1202
+  offset: 1081, 515
+  index: -1
+face
+  rotate: true
+  xy: 3061, 1852
+  size: 251, 176
+  orig: 2402, 1202
+  offset: 1073, 426
+  index: -1
+hair1
+  rotate: false
+  xy: 3061, 2105
+  size: 77, 353
+  orig: 2402, 1202
+  offset: 1329, 237
+  index: -1
+hair2
+  rotate: false
+  xy: 2137, 1398
+  size: 456, 373
+  orig: 2402, 1202
+  offset: 981, 119
+  index: -1
+hair3
+  rotate: true
+  xy: 979, 104
+  size: 246, 549
+  orig: 2402, 1202
+  offset: 1237, 17
+  index: -1
+hair4
+  rotate: false
+  xy: 3040, 418
+  size: 236, 541
+  orig: 2402, 1202
+  offset: 918, 45
+  index: -1
+hand1
+  rotate: true
+  xy: 2595, 1440
+  size: 331, 449
+  orig: 2402, 1202
+  offset: 356, 176
+  index: -1
+hand2
+  rotate: true
+  xy: 1867, 34
+  size: 307, 425
+  orig: 2402, 1202
+  offset: 1713, 177
+  index: -1
+head
+  rotate: false
+  xy: 2451, 360
+  size: 587, 590
+  orig: 2402, 1202
+  offset: 907, 375
+  index: -1
+light
+  rotate: false
+  xy: 979, 13
+  size: 168, 89
+  orig: 320, 160
+  offset: 76, 0
+  index: -1
+modle
+  rotate: false
+  xy: 2137, 1775
+  size: 175, 288
+  orig: 2402, 1202
+  offset: 1131, 132
+  index: -1
+sea wave1
+  rotate: false
+  xy: 2, 2
+  size: 975, 943
+  orig: 2402, 1202
+  offset: 714, 129
+  index: -1
+sea wave2
+  rotate: false
+  xy: 1228, 2241
+  size: 1089, 1044
+  orig: 2402, 1202
+  offset: 657, 101
+  index: -1
+sea wave3
+  rotate: false
+  xy: 2319, 2460
+  size: 849, 825
+  orig: 2402, 1202
+  offset: 740, 184
+  index: -1
+sea wave4
+  rotate: false
+  xy: 2, 947
+  size: 1175, 1136
+  orig: 2402, 1202
+  offset: 584, 65
+  index: -1
+sea wave5
+  rotate: false
+  xy: 2, 2085
+  size: 1224, 1200
+  orig: 2402, 1202
+  offset: 589, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 3170, 3125
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1
+spell
+  rotate: false
+  xy: 1179, 902
+  size: 959, 480
+  orig: 959, 480
+  offset: 0, 0
+  index: -1
+starlight
+  rotate: false
+  xy: 1530, 30
+  size: 335, 320
+  orig: 639, 320
+  offset: 152, 0
+  index: -1
+temple2
+  rotate: false
+  xy: 1228, 2065
+  size: 1100, 174
+  orig: 2402, 1202
+  offset: 654, 1
+  index: -1

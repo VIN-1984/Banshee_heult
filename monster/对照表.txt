@@ -1,0 +1,140 @@
+荒海骚动者
+Ruckus of BleakSea
+SEABRON_Ruckus
+
+SEABORN_Ruckus.sprite.combat
+SEABORN_Ruckus.sprite.defend
+SEABORN_Ruckus.sprite.corpse
+潮汐守望
+seaborn`s control
+SEABORN_Ruckus.sprite.control
+镇海
+Crush blue
+SEABORN_Ruckus.sprite.crush_blue
+潮涌秘术
+mystery of tidal surges
+SEABORN_Ruckus.sprite.crush
+
+
+雷云守卫
+Thundercloud Guardian
+SEABORN_guardian
+
+SEABORN_guardian.sprite.combat
+SEABORN_guardian.sprite.corpse
+SEABORN_guardian.sprite.defend
+乱砸一通
+Thunder smash
+SEABORN_guardian.sprite.smash
+剖嗣产
+Caeseareansection
+SEABORN_guardian.sprite.Summoning
+充血
+hyperaemia
+SEABORN_guardian.sprite.intensify
+
+
+骨海漂流体
+sea bone drifter
+SEABRON_drifter
+
+SEABORN_drifter.sprite.combat
+SEABORN_effected.sprite.corpse
+SEABORN_effected.sprite.defend
+闪烁鱼鳞
+Scintillation scale
+SEABORN_effected.sprite.flash
+镖鳞风暴
+scalechette storm
+SEABORN_effected.sprite.storm
+
+投嗣育母
+Retching Broodmother
+SEABRON_Brood
+
+SEABORN_brood.sprite.combat
+SEABORN_brood.sprite.corpse
+SEABORN_brood.sprite.defend
+孕育
+inoculation
+SEABORN_brood.sprite.inoculation
+哺育
+nurture
+SEABORN_brood.sprite.nurture
+
+
+掠海漂移体
+Skimming Sea Drifter
+SEABORN_SSdrifter
+
+SEABORN_SSdrifter.sprit.combat
+SEABORN_SSdrifter.sprit.defend
+SEABORN_SSdrifter.sprit.corpse
+钙质粉碎
+calcium break
+SEABORN_SSdrifter.sprit.attack_Calcium
+漂流
+SEABORN_SSdrifter.sprit.driftfront
+漂移
+SEABORN_SSdrifter.sprite.driftretreat
+
+
+固海凿石者
+Ocean Stonecutter
+SEABORN_Stonecutter
+
+SEABORN_Stonecutter.sprite.combat
+SEABORN_Stonecutter.sprite.corpse
+SEABORN_Stonecutter.sprite.defend
+角质穿刺
+corneum pricks
+SEABORN_Stonecutter.sprite.Puncture
+刨土
+Dust emission
+SEABORN_Stonecutter.sprite.Dust_emission
+海底隧穿
+excavate
+SEABORN_Stonecutter.sprite.excavate
+
+
+怒涛章法
+The regulation of furious
+
+
+惊骇怒涛之幽魂
+The ghost of Storm
+SEABORN_heroic
+
+SEABORN_heroic.sprite.combat
+SEABORN_heroic.sprite.defend
+荒崖祷告
+Cliff prayer
+SEABORN_heroic.sprite.pray
+巨浪长击
+SHARKWAVE
+SEABORN_heroic.sprite.impact
+SEABORN_heroic.sprite.impactFX
+静谧无声
+Stay silent
+SEABORN_heroic.sprite.curse
+
+
+鸣渊长嚎之鬼魅
+The ghost of Sharkscream
+SEABORN_affected
+
+SEABORN_effected.sprite.combat
+SEABORN_effected.sprite.defend
+海骨旋刃
+revved bladevortex
+SEABORN_effected.sprite.chainsaw
+死海之印
+seal Mar muerto
+SEABORN_effected.sprite.curse
+SEABORN_effected.sprite.curse_AD
+渊鸣斩尽
+Killing to the deepth
+SEABORN_effected.sprite.attack
+SEABORN_effected.sprite.attackFX
+
+

@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "corneum_pricks" .anim "Puncture"      .fx "" .targchestfx "" 
+skill: .id "dust_emission"  .anim "Dust_emission" .fx "" .targchestfx "" 
+skill: .id "excavate"       .anim "excavate"      .fx "" .targchestfx ""

@@ -1,0 +1,97 @@
+
+SEABORN_SSdrifter.sprit.attack_Calcium.png
+size: 1037,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 855, 270
+  size: 281, 119
+  orig: 283, 122
+  offset: 1, 1
+  index: -1
+calcium ball
+  rotate: true
+  xy: 835, 69
+  size: 199, 189
+  orig: 201, 192
+  offset: 1, 1
+  index: -1
+dark
+  rotate: true
+  xy: 508, 553
+  size: 482, 357
+  orig: 485, 360
+  offset: 1, 2
+  index: -1
+eye
+  rotate: false
+  xy: 238, 4
+  size: 156, 101
+  orig: 158, 104
+  offset: 1, 1
+  index: -1
+flash1
+  rotate: false
+  xy: 2, 503
+  size: 296, 327
+  orig: 301, 331
+  offset: 2, 2
+  index: -1
+flash2
+  rotate: true
+  xy: 2, 11
+  size: 490, 234
+  orig: 493, 268
+  offset: 1, 32
+  index: -1
+flash3
+  rotate: true
+  xy: 300, 370
+  size: 460, 162
+  orig: 463, 164
+  offset: 2, 1
+  index: -1
+flash4
+  rotate: false
+  xy: 2, 832
+  size: 504, 203
+  orig: 508, 209
+  offset: 3, 3
+  index: -1
+light
+  rotate: false
+  xy: 464, 315
+  size: 389, 236
+  orig: 395, 241
+  offset: 3, 3
+  index: -1
+shadow
+  rotate: false
+  xy: 396, 2
+  size: 388, 97
+  orig: 396, 102
+  offset: 7, 1
+  index: -1
+tail
+  rotate: false
+  xy: 867, 922
+  size: 107, 113
+  orig: 109, 115
+  offset: 1, 1
+  index: -1
+wing1
+  rotate: false
+  xy: 461, 101
+  size: 372, 212
+  orig: 374, 215
+  offset: 1, 1
+  index: -1
+wing2
+  rotate: true
+  xy: 238, 107
+  size: 261, 221
+  orig: 263, 223
+  offset: 1, 1
+  index: -1

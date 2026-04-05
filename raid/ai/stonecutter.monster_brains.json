@@ -1,0 +1,23 @@
+{
+	"monster_brains": 
+    [
+         {
+		 "id": "stonecutter",
+         "skill_cooldowns": 
+		 [
+		 {"combat_skill_id": "dust_emission","amount": 3}
+         ],
+		"skill_selection_desires": 
+         [
+         {"type": "specific_skill","data": {"base_chance": 1.00,"combat_skill_id": "corneum_pricks"}},
+		 {"type": "specific_skill","data": {"base_chance": 10.0,"combat_skill_id": "dust_emission"}},
+ 	     {"type": "specific_skill","data": {"base_chance": 1.00,"combat_skill_id": "excavate"}}
+		 ],
+		"target_selection_desires": 
+         [
+         {"type": "random_target","data": {"base_chance": 1.0,"specific_combat_skill_id": "","is_exclusive_desire": true,"is_enemy_target_desire": true,"is_friendly_target_desire": true}}
+         ],
+         "bonus_initiative_desires": []
+         }
+	]
+}

@@ -1,0 +1,377 @@
+
+SEABORN_effected.sprite.attackFX.png
+size: 3332,3332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 776, 28
+  size: 537, 100
+  orig: 1592, 1202
+  offset: 949, 725
+  index: -1
+Belt2
+  rotate: false
+  xy: 818, 278
+  size: 454, 218
+  orig: 1592, 1202
+  offset: 916, 880
+  index: -1
+Body
+  rotate: false
+  xy: 2, 287
+  size: 814, 839
+  orig: 1592, 1202
+  offset: 362, 204
+  index: -1
+Cloak1
+  rotate: false
+  xy: 2230, 2416
+  size: 714, 432
+  orig: 1592, 1202
+  offset: 851, 396
+  index: -1
+Cloak2
+  rotate: true
+  xy: 818, 498
+  size: 628, 400
+  orig: 1592, 1202
+  offset: 851, 251
+  index: -1
+Hair1
+  rotate: false
+  xy: 1042, 1129
+  size: 300, 272
+  orig: 1592, 1202
+  offset: 848, 753
+  index: -1
+Hair2
+  rotate: true
+  xy: 2805, 2
+  size: 327, 226
+  orig: 1592, 1202
+  offset: 873, 886
+  index: -1
+Hair3
+  rotate: false
+  xy: 1310, 2134
+  size: 736, 351
+  orig: 1592, 1202
+  offset: 685, 724
+  index: -1
+Hair4
+  rotate: false
+  xy: 2934, 2861
+  size: 396, 469
+  orig: 1592, 1202
+  offset: 1179, 549
+  index: -1
+Hair5
+  rotate: false
+  xy: 2711, 1849
+  size: 543, 466
+  orig: 1592, 1202
+  offset: 888, 506
+  index: -1
+Hat
+  rotate: true
+  xy: 2444, 1089
+  size: 371, 230
+  orig: 1592, 1202
+  offset: 702, 909
+  index: -1
+Headdress1
+  rotate: false
+  xy: 1353, 1482
+  size: 439, 650
+  orig: 1592, 1202
+  offset: 871, 323
+  index: -1
+Headdress2
+  rotate: true
+  xy: 1220, 549
+  size: 578, 303
+  orig: 1592, 1202
+  offset: 875, 894
+  index: -1
+Headdress3
+  rotate: false
+  xy: 776, 130
+  size: 653, 146
+  orig: 1592, 1202
+  offset: 889, 872
+  index: -1
+Lightbg
+  rotate: false
+  xy: 2, 1128
+  size: 1038, 1000
+  orig: 1592, 1202
+  offset: 519, 201
+  index: -1
+Shadows
+  rotate: false
+  xy: 2, 2130
+  size: 1306, 1200
+  orig: 1592, 1202
+  offset: 285, 1
+  index: -1
+Skeletal shell
+  rotate: false
+  xy: 1310, 2487
+  size: 918, 843
+  orig: 920, 845
+  offset: 1, 1
+  index: -1
+Stone fragments1
+  rotate: true
+  xy: 1042, 1403
+  size: 725, 309
+  orig: 1592, 1202
+  offset: 1, 1
+  index: -1
+Stone fragments2
+  rotate: false
+  xy: 2, 127
+  size: 772, 158
+  orig: 1592, 1202
+  offset: 410, 10
+  index: -1
+Stone fragments3
+  rotate: false
+  xy: 2, 4
+  size: 697, 121
+  orig: 1592, 1202
+  offset: 644, 23
+  index: -1
+bearing1
+  rotate: false
+  xy: 3208, 1827
+  size: 20, 20
+  orig: 1276, 1202
+  offset: 582, 508
+  index: -1
+bearing2
+  rotate: false
+  xy: 3108, 997
+  size: 85, 85
+  orig: 1276, 1202
+  offset: 547, 475
+  index: -1
+bimonthly
+  rotate: false
+  xy: 3079, 461
+  size: 251, 167
+  orig: 258, 175
+  offset: 4, 4
+  index: -1
+blade light
+  rotate: false
+  xy: 1525, 317
+  size: 465, 465
+  orig: 1276, 1202
+  offset: 228, 165
+  index: -1
+circular saw blade
+  rotate: true
+  xy: 2676, 976
+  size: 426, 430
+  orig: 1276, 1202
+  offset: 249, 190
+  index: -1
+energy1
+  rotate: false
+  xy: 2690, 1404
+  size: 516, 443
+  orig: 1276, 1202
+  offset: 360, 318
+  index: -1
+energy2
+  rotate: false
+  xy: 1525, 784
+  size: 469, 472
+  orig: 1276, 1202
+  offset: 228, 169
+  index: -1
+energy3
+  rotate: false
+  xy: 1996, 1010
+  size: 446, 450
+  orig: 1276, 1202
+  offset: 239, 180
+  index: -1
+engine
+  rotate: false
+  xy: 1274, 299
+  size: 211, 248
+  orig: 1276, 1202
+  offset: 421, 309
+  index: -1
+eye light
+  rotate: false
+  xy: 3256, 2287
+  size: 29, 28
+  orig: 1592, 1202
+  offset: 762, 911
+  index: -1
+eyeshark
+  rotate: false
+  xy: 2444, 1019
+  size: 50, 68
+  orig: 1592, 1202
+  offset: 870, 982
+  index: -1
+fish X
+  rotate: false
+  xy: 2445, 640
+  size: 420, 334
+  orig: 422, 337
+  offset: 1, 1
+  index: -1
+gear1
+  rotate: false
+  xy: 1315, 76
+  size: 51, 52
+  orig: 1276, 1202
+  offset: 422, 308
+  index: -1
+gear2
+  rotate: true
+  xy: 2711, 2317
+  size: 97, 96
+  orig: 1276, 1202
+  offset: 414, 356
+  index: -1
+ghost1
+  rotate: false
+  xy: 2867, 630
+  size: 344, 344
+  orig: 1276, 1202
+  offset: 282, 226
+  index: -1
+ghost2
+  rotate: true
+  xy: 2445, 281
+  size: 357, 358
+  orig: 1276, 1202
+  offset: 278, 213
+  index: -1
+glow1
+  rotate: false
+  xy: 1960, 2
+  size: 157, 146
+  orig: 1276, 1202
+  offset: 409, 318
+  index: -1
+glow2
+  rotate: true
+  xy: 2133, 1462
+  size: 462, 555
+  orig: 1276, 1202
+  offset: 232, 135
+  index: -1
+glow3
+  rotate: false
+  xy: 3079, 273
+  size: 226, 186
+  orig: 1276, 1202
+  offset: 362, 298
+  index: -1
+glow4
+  rotate: true
+  xy: 1996, 591
+  size: 417, 447
+  orig: 1276, 1202
+  offset: 246, 125
+  index: -1
+hand
+  rotate: true
+  xy: 3108, 1084
+  size: 318, 156
+  orig: 1592, 1202
+  offset: 605, 721
+  index: -1
+hat bg
+  rotate: false
+  xy: 1674, 7
+  size: 284, 308
+  orig: 286, 311
+  offset: 1, 2
+  index: -1
+light
+  rotate: false
+  xy: 1794, 1491
+  size: 337, 641
+  orig: 1592, 1202
+  offset: 605, 516
+  index: -1
+shadow2
+  rotate: false
+  xy: 2805, 331
+  size: 272, 297
+  orig: 1276, 1202
+  offset: 383, 290
+  index: -1
+shadow3
+  rotate: false
+  xy: 2133, 1926
+  size: 576, 488
+  orig: 1276, 1202
+  offset: 271, 208
+  index: -1
+spark1
+  rotate: true
+  xy: 2048, 2289
+  size: 196, 57
+  orig: 1276, 1202
+  offset: 292, 530
+  index: -1
+spark2
+  rotate: true
+  xy: 2119, 47
+  size: 101, 267
+  orig: 1276, 1202
+  offset: 215, 352
+  index: -1
+spark3
+  rotate: false
+  xy: 701, 16
+  size: 58, 109
+  orig: 1276, 1202
+  offset: 238, 238
+  index: -1
+spark4
+  rotate: true
+  xy: 1353, 1258
+  size: 222, 426
+  orig: 1276, 1202
+  offset: 531, 92
+  index: -1
+spark5
+  rotate: false
+  xy: 2946, 2317
+  size: 358, 542
+  orig: 1276, 1202
+  offset: 320, 129
+  index: -1
+spark6
+  rotate: false
+  xy: 1992, 150
+  size: 440, 439
+  orig: 1276, 1202
+  offset: 183, 127
+  index: -1
+starry sky
+  rotate: false
+  xy: 2230, 2850
+  size: 702, 480
+  orig: 702, 480
+  offset: 0, 0
+  index: -1
+steel pole
+  rotate: true
+  xy: 1431, 2
+  size: 295, 241
+  orig: 1276, 1202
+  offset: 541, 500
+  index: -1

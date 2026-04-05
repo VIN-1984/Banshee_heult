@@ -1,0 +1,29 @@
+display: .size 1
+enemy_type: .id "SEABRON"
+enemy_type: .id "monster_LV1"
+
+stats: .hp 24 .def 5% .prot 5% .spd 1 .stun_resist 60% .poison_resist 20% .bleed_resist 60% .debuff_resist 20% .move_resist 40%
+
+skill: .id "corneum_pricks" .type "melee" .atk 85% .dmg 4 7 .crit 3% .launch 12 .target 123 .is_crit_valid True  
+skill: .id "corneum_pricks" .effect 
+
+skill: .id "dust_emission" .launch 1234 .target 
+skill: .id "dust_emission" .effect
+skill: .id "dust_emission" .effect 
+
+skill: .id "excavate" .launch 34 .target .move 0 2 
+skill: .id "excavate" .effect 
+skill: .id "excavate" .effect 
+
+personality: .prefskill -1
+loot: .code "C" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id stonecutter
+death_class: .monster_class_id corpse_A .is_valid_on_crit False .type "corpse" .change_class_effects "Steal_bsrc_town" "Steal_shuffle"
+battle_modifier: .accelerate_stall_penalty True .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+
+//--------------------------------------------------
+spawn: .effects BS0
+spawn: .effects 
+//--------------------------------------------------
+display_modifier: .disabled_popup_text_types no_damage bleed_resist poison_resist stun_resist move_resist debuff_resist monster_heal

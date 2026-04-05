@@ -1,0 +1,153 @@
+
+SEABORN_heroic.sprite.impact.png
+size: 3700,3700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Portal
+  rotate: true
+  xy: 1573, 1444
+  size: 426, 1182
+  orig: 2141, 1502
+  offset: 1701, 22
+  index: -1
+The Breath of the depth Abyss Dragon1
+  rotate: false
+  xy: 1612, 2903
+  size: 1400, 795
+  orig: 2141, 1502
+  offset: 394, 166
+  index: -1
+The Breath of the depth Abyss Dragon3
+  rotate: true
+  xy: 567, 49
+  size: 1000, 658
+  orig: 2141, 1502
+  offset: 30, 277
+  index: -1
+The Breath of the depth Abyss Dragon4
+  rotate: true
+  xy: 1228, 1083
+  size: 669, 343
+  orig: 684, 480
+  offset: 0, 19
+  index: -1
+Water mist2
+  rotate: false
+  xy: 1504, 1872
+  size: 1267, 1029
+  orig: 2141, 1502
+  offset: 628, 115
+  index: -1
+Water mist3
+  rotate: false
+  xy: 2, 2273
+  size: 1386, 662
+  orig: 2141, 1502
+  offset: 215, 620
+  index: -1
+Water mist4
+  rotate: false
+  xy: 2757, 1156
+  size: 868, 596
+  orig: 2141, 1502
+  offset: 822, 438
+  index: -1
+Water mist5
+  rotate: false
+  xy: 1573, 1066
+  size: 488, 376
+  orig: 536, 376
+  offset: 1, 0
+  index: -1
+Water mist6
+  rotate: true
+  xy: 3319, 619
+  size: 535, 371
+  orig: 536, 376
+  offset: 0, 5
+  index: -1
+background
+  rotate: false
+  xy: 2, 1051
+  size: 1224, 1220
+  orig: 1306, 1307
+  offset: 41, 41
+  index: -1
+sea
+  rotate: false
+  xy: 3014, 3218
+  size: 684, 480
+  orig: 684, 480
+  offset: 0, 0
+  index: -1
+shark4
+  rotate: true
+  xy: 2584, 24
+  size: 529, 609
+  orig: 2141, 1502
+  offset: 1020, 465
+  index: -1
+shark5
+  rotate: true
+  xy: 1228, 1982
+  size: 289, 248
+  orig: 2141, 1502
+  offset: 1721, 858
+  index: -1
+spray1
+  rotate: false
+  xy: 1227, 91
+  size: 742, 958
+  orig: 2141, 1502
+  offset: 1394, 230
+  index: -1
+spray2
+  rotate: false
+  xy: 2584, 555
+  size: 733, 599
+  orig: 2141, 1502
+  offset: 285, 91
+  index: -1
+spray3
+  rotate: true
+  xy: 2063, 45
+  size: 1109, 519
+  orig: 2141, 1502
+  offset: 99, 9
+  index: -1
+the big W-shark
+  rotate: true
+  xy: 2, 23
+  size: 1026, 563
+  orig: 1026, 720
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 1390, 2693
+  size: 242, 112
+  orig: 1026, 720
+  offset: 217, 127
+  index: -1
+wave2
+  rotate: true
+  xy: 2773, 1754
+  size: 740, 880
+  orig: 2141, 1502
+  offset: 1400, 39
+  index: -1
+wave3
+  rotate: false
+  xy: 2, 2937
+  size: 1608, 761
+  orig: 2141, 1502
+  offset: 516, 1
+  index: -1
+wave4
+  rotate: true
+  xy: 3014, 2496
+  size: 720, 670
+  orig: 2141, 1502
+  offset: 1268, 442
+  index: -1

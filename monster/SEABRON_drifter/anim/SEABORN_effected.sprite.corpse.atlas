@@ -1,0 +1,27 @@
+
+SEABORN_effected.sprite.corpse.png
+size: 657,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+corpse
+  rotate: true
+  xy: 251, 218
+  size: 437, 271
+  orig: 439, 273
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 495, 122
+  orig: 499, 128
+  offset: 2, 1
+  index: -1
+spore
+  rotate: false
+  xy: 2, 126
+  size: 247, 529
+  orig: 293, 537
+  offset: 45, 5
+  index: -1

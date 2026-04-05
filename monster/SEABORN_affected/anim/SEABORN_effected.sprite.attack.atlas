@@ -1,0 +1,132 @@
+
+SEABORN_effected.sprite.attack.png
+size: 2553,2553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stone fragments4
+  rotate: false
+  xy: 2, 1577
+  size: 1280, 355
+  orig: 1592, 1202
+  offset: 233, 14
+  index: -1
+Stone fragments5
+  rotate: false
+  xy: 1284, 1391
+  size: 1267, 307
+  orig: 1592, 1202
+  offset: 36, 26
+  index: -1
+Water mist2
+  rotate: false
+  xy: 386, 71
+  size: 709, 769
+  orig: 1592, 1202
+  offset: 136, 18
+  index: -1
+Water mist4
+  rotate: false
+  xy: 1445, 1720
+  size: 856, 403
+  orig: 1592, 1202
+  offset: 19, 19
+  index: -1
+background
+  rotate: false
+  xy: 1282, 909
+  size: 702, 480
+  orig: 702, 480
+  offset: 0, 0
+  index: -1
+eyeshark
+  rotate: false
+  xy: 2303, 2055
+  size: 50, 68
+  orig: 1592, 1202
+  offset: 870, 982
+  index: -1
+fish1
+  rotate: false
+  xy: 1717, 523
+  size: 716, 384
+  orig: 718, 386
+  offset: 1, 1
+  index: -1
+fish10
+  rotate: false
+  xy: 1445, 2125
+  size: 922, 426
+  orig: 925, 429
+  offset: 2, 2
+  index: -1
+fish11
+  rotate: true
+  xy: 2185, 939
+  size: 314, 256
+  orig: 315, 256
+  offset: 1, 0
+  index: -1
+fish12
+  rotate: true
+  xy: 1097, 104
+  size: 736, 618
+  orig: 738, 621
+  offset: 1, 2
+  index: -1
+fish2
+  rotate: false
+  xy: 2185, 1255
+  size: 324, 134
+  orig: 326, 136
+  offset: 1, 1
+  index: -1
+fish3
+  rotate: true
+  xy: 1986, 978
+  size: 411, 197
+  orig: 413, 200
+  offset: 1, 2
+  index: -1
+fish4
+  rotate: true
+  xy: 2369, 2263
+  size: 288, 177
+  orig: 292, 179
+  offset: 2, 1
+  index: -1
+fish5
+  rotate: true
+  xy: 1284, 1746
+  size: 186, 99
+  orig: 188, 102
+  offset: 1, 1
+  index: -1
+fish6
+  rotate: true
+  xy: 2369, 1700
+  size: 561, 138
+  orig: 565, 140
+  offset: 2, 1
+  index: -1
+fish7
+  rotate: false
+  xy: 2, 1934
+  size: 1441, 617
+  orig: 1443, 621
+  offset: 1, 2
+  index: -1
+fish8
+  rotate: true
+  xy: 2, 57
+  size: 783, 382
+  orig: 785, 384
+  offset: 1, 1
+  index: -1
+fish9
+  rotate: false
+  xy: 2, 842
+  size: 1278, 733
+  orig: 1281, 736
+  offset: 1, 1
+  index: -1
