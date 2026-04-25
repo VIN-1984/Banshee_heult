@@ -1,174 +1,174 @@
 
 SEABORN_Stonecutter.sprite.combat.png
-size: 768,768
+size: 573,573
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 body
-  rotate: true
-  xy: 702, 537
-  size: 71, 64
-  orig: 73, 66
-  offset: 1, 1
+  rotate: false
+  xy: 517, 419
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
   index: -1
 face1
   rotate: false
-  xy: 547, 60
-  size: 54, 60
-  orig: 56, 62
-  offset: 1, 1
+  xy: 445, 167
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
   index: -1
 face2
-  rotate: false
-  xy: 432, 539
-  size: 16, 33
-  orig: 18, 35
-  offset: 1, 1
+  rotate: true
+  xy: 517, 404
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
   index: -1
 face3
   rotate: false
-  xy: 450, 548
-  size: 17, 24
-  orig: 19, 26
-  offset: 1, 1
+  xy: 327, 74
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
   index: -1
 face4
-  rotate: true
-  xy: 450, 535
-  size: 11, 25
-  orig: 14, 28
-  offset: 1, 2
+  rotate: false
+  xy: 223, 32
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
   index: -1
 head
   rotate: false
-  xy: 328, 42
-  size: 93, 78
-  orig: 95, 81
-  offset: 1, 2
+  xy: 457, 212
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
   index: -1
 leg1
   rotate: false
-  xy: 628, 203
-  size: 97, 182
-  orig: 99, 184
-  offset: 1, 1
+  xy: 457, 271
+  size: 69, 129
+  orig: 69, 129
+  offset: 0, 0
   index: -1
 leg2
   rotate: false
-  xy: 330, 531
-  size: 42, 41
-  orig: 44, 44
-  offset: 1, 1
+  xy: 486, 179
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
   index: -1
 leg3
-  rotate: false
-  xy: 252, 165
-  size: 68, 149
-  orig: 70, 151
-  offset: 1, 1
+  rotate: true
+  xy: 115, 3
+  size: 49, 106
+  orig: 49, 106
+  offset: 0, 0
   index: -1
 leg4
-  rotate: false
-  xy: 423, 11
-  size: 68, 49
-  orig: 70, 51
-  offset: 1, 1
+  rotate: true
+  xy: 416, 17
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
   index: -1
 leg5
-  rotate: false
-  xy: 702, 610
-  size: 64, 156
-  orig: 66, 158
-  offset: 1, 1
+  rotate: true
+  xy: 2, 6
+  size: 46, 111
+  orig: 46, 111
+  offset: 0, 0
   index: -1
 leg7
-  rotate: true
-  xy: 374, 532
-  size: 40, 56
-  orig: 42, 59
-  offset: 1, 1
+  rotate: false
+  xy: 237, 243
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
   index: -1
 leg8
   rotate: true
-  xy: 423, 62
-  size: 58, 122
-  orig: 69, 124
-  offset: 10, 1
+  xy: 327, 18
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
   index: -1
 shadow
-  rotate: false
-  xy: 2, 649
-  size: 474, 117
-  orig: 477, 123
-  offset: 2, 2
+  rotate: true
+  xy: 269, 237
+  size: 334, 86
+  orig: 334, 86
+  offset: 0, 0
   index: -1
 shell
   rotate: false
-  xy: 330, 122
-  size: 296, 403
-  orig: 379, 407
-  offset: 82, 2
+  xy: 2, 286
+  size: 265, 285
+  orig: 265, 285
+  offset: 0, 0
   index: -1
 spike1
   rotate: false
-  xy: 478, 527
-  size: 222, 239
-  orig: 225, 241
-  offset: 2, 1
+  xy: 357, 402
+  size: 158, 169
+  orig: 158, 169
+  offset: 0, 0
   index: -1
 spike2
-  rotate: true
-  xy: 2, 316
-  size: 331, 326
-  orig: 333, 328
-  offset: 1, 1
+  rotate: false
+  xy: 2, 54
+  size: 233, 230
+  orig: 233, 230
+  offset: 0, 0
   index: -1
 spike3
-  rotate: true
-  xy: 2, 176
-  size: 138, 248
-  orig: 140, 250
-  offset: 1, 1
+  rotate: false
+  xy: 357, 225
+  size: 98, 175
+  orig: 98, 175
+  offset: 0, 0
   index: -1
 spike4
-  rotate: true
-  xy: 2, 24
-  size: 150, 199
-  orig: 152, 202
-  offset: 1, 2
+  rotate: false
+  xy: 237, 94
+  size: 106, 141
+  orig: 106, 141
+  offset: 0, 0
   index: -1
 tongs1
   rotate: false
-  xy: 203, 40
-  size: 123, 123
-  orig: 125, 125
-  offset: 1, 1
+  xy: 237, 4
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
   index: -1
 tongs2
-  rotate: true
-  xy: 628, 387
-  size: 138, 121
-  orig: 140, 123
-  offset: 1, 1
+  rotate: false
+  xy: 345, 137
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
   index: -1
 tongs3
-  rotate: true
-  xy: 628, 66
-  size: 135, 94
-  orig: 137, 96
-  offset: 1, 1
+  rotate: false
+  xy: 345, 68
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
   index: -1
 tongs4
-  rotate: false
-  xy: 330, 574
-  size: 146, 73
-  orig: 148, 77
-  offset: 1, 3
+  rotate: true
+  xy: 517, 467
+  size: 104, 54
+  orig: 104, 54
+  offset: 0, 0
   index: -1
 tongs5
-  rotate: true
-  xy: 724, 152
-  size: 49, 31
-  orig: 52, 33
-  offset: 2, 1
+  rotate: false
+  xy: 445, 142
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
   index: -1

@@ -1,27 +1,27 @@
 
 SEABORN_Stonecutter.sprite.dead.png
-size: 1065,1065
+size: 744,744
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 shadow
-  rotate: true
-  xy: 457, 2
-  size: 485, 120
-  orig: 488, 126
-  offset: 2, 1
+  rotate: false
+  xy: 2, 248
+  size: 342, 88
+  orig: 342, 88
+  offset: 0, 0
   index: -1
 spore
-  rotate: true
-  xy: 2, 4
-  size: 483, 453
-  orig: 492, 503
-  offset: 4, 47
+  rotate: false
+  xy: 398, 390
+  size: 344, 352
+  orig: 344, 352
+  offset: 0, 0
   index: -1
 tongs1
   rotate: false
-  xy: 2, 489
-  size: 561, 574
-  orig: 563, 577
-  offset: 1, 1
+  xy: 2, 338
+  size: 394, 404
+  orig: 394, 404
+  offset: 0, 0
   index: -1
