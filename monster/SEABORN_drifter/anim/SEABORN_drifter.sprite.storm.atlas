@@ -1,0 +1,76 @@
+
+SEABORN_drifter.sprite.storm.png
+size: 1043,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark
+  rotate: false
+  xy: 2, 556
+  size: 536, 485
+  orig: 536, 485
+  offset: 0, 0
+  index: -1
+fins2
+  rotate: false
+  xy: 2, 2
+  size: 209, 205
+  orig: 209, 205
+  offset: 0, 0
+  index: -1
+iridescence1
+  rotate: false
+  xy: 606, 28
+  size: 228, 215
+  orig: 228, 215
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 540, 638
+  size: 432, 403
+  orig: 432, 403
+  offset: 0, 0
+  index: -1
+scale1
+  rotate: false
+  xy: 2, 209
+  size: 560, 345
+  orig: 560, 345
+  offset: 0, 0
+  index: -1
+scale2
+  rotate: false
+  xy: 564, 370
+  size: 468, 123
+  orig: 468, 123
+  offset: 0, 0
+  index: -1
+scale3
+  rotate: false
+  xy: 564, 245
+  size: 349, 123
+  orig: 349, 123
+  offset: 0, 0
+  index: -1
+scale4
+  rotate: false
+  xy: 213, 65
+  size: 391, 142
+  orig: 391, 142
+  offset: 0, 0
+  index: -1
+scale5
+  rotate: false
+  xy: 564, 495
+  size: 404, 141
+  orig: 404, 141
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 915, 66
+  size: 302, 78
+  orig: 302, 78
+  offset: 0, 0
+  index: -1
