@@ -1,104 +1,104 @@
 
 SEABORN_guardian.sprite.smash.png
-size: 2441,2441
+size: 1785,1785
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 1
-  rotate: false
-  xy: 1761, 742
-  size: 629, 584
-  orig: 638, 599
-  offset: 2, 1
+  rotate: true
+  xy: 701, 244
+  size: 447, 419
+  orig: 447, 419
+  offset: 0, 0
   index: -1
 2
   rotate: false
-  xy: 1833, 322
-  size: 367, 418
-  orig: 371, 422
-  offset: 2, 2
+  xy: 1237, 714
+  size: 260, 295
+  orig: 260, 295
+  offset: 0, 0
   index: -1
 Stone fragments2
   rotate: false
-  xy: 997, 281
-  size: 834, 171
-  orig: 836, 173
-  offset: 1, 1
+  xy: 1122, 570
+  size: 585, 121
+  orig: 585, 121
+  offset: 0, 0
   index: -1
 Stone fragments3
   rotate: false
-  xy: 1686, 148
-  size: 753, 131
-  orig: 756, 134
-  offset: 1, 1
+  xy: 1245, 1011
+  size: 529, 94
+  orig: 529, 94
+  offset: 0, 0
   index: -1
 Stone fragments4
   rotate: false
-  xy: 1054, 1328
-  size: 906, 286
-  orig: 908, 288
-  offset: 1, 1
+  xy: 607, 25
+  size: 636, 202
+  orig: 636, 202
+  offset: 0, 0
   index: -1
 candle
-  rotate: false
-  xy: 2202, 381
-  size: 157, 359
-  orig: 159, 361
-  offset: 1, 1
+  rotate: true
+  xy: 1499, 898
+  size: 111, 253
+  orig: 111, 253
+  offset: 0, 0
   index: -1
 flash x
   rotate: true
-  xy: 1761, 1616
-  size: 823, 652
-  orig: 830, 655
-  offset: 5, 1
+  xy: 776, 693
+  size: 581, 459
+  orig: 581, 459
+  offset: 0, 0
   index: -1
 flash1
   rotate: false
-  xy: 1054, 1727
-  size: 643, 712
-  orig: 659, 724
-  offset: 4, 3
+  xy: 776, 1276
+  size: 461, 507
+  orig: 461, 507
+  offset: 0, 0
   index: -1
 flash2
   rotate: true
-  xy: 2, 28
-  size: 243, 857
-  orig: 313, 861
-  offset: 5, 2
+  xy: 2, 8
+  size: 219, 603
+  orig: 219, 603
+  offset: 0, 0
   index: -1
 light
   rotate: true
-  xy: 997, 454
-  size: 835, 762
-  orig: 966, 768
-  offset: 3, 3
+  xy: 1245, 1107
+  size: 676, 538
+  orig: 676, 538
+  offset: 0, 0
   index: -1
 light2
   rotate: false
-  xy: 2, 1291
-  size: 1050, 1148
-  orig: 1103, 1198
-  offset: 52, 1
+  xy: 2, 944
+  size: 772, 839
+  orig: 772, 839
+  offset: 0, 0
   index: -1
 light3
   rotate: false
-  xy: 1962, 1359
-  size: 243, 255
-  orig: 343, 352
-  offset: 51, 48
+  xy: 1245, 172
+  size: 240, 246
+  orig: 240, 246
+  offset: 0, 0
   index: -1
 min
   rotate: false
-  xy: 2, 273
-  size: 993, 1016
-  orig: 995, 1019
-  offset: 1, 1
+  xy: 2, 229
+  size: 697, 713
+  orig: 697, 713
+  offset: 0, 0
   index: -1
 shadow
   rotate: false
-  xy: 861, 67
-  size: 823, 204
-  orig: 827, 211
-  offset: 2, 1
+  xy: 1122, 420
+  size: 579, 148
+  orig: 579, 148
+  offset: 0, 0
   index: -1
