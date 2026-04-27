@@ -1,0 +1,27 @@
+
+SEABORN_Ruckus.sprite.dead.png
+size: 653,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 546, 283
+  size: 368, 95
+  orig: 368, 95
+  offset: 0, 0
+  index: -1
+skull1
+  rotate: false
+  xy: 2, 257
+  size: 542, 394
+  orig: 542, 394
+  offset: 0, 0
+  index: -1
+spore
+  rotate: false
+  xy: 2, 2
+  size: 393, 253
+  orig: 393, 253
+  offset: 0, 0
+  index: -1
