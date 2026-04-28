@@ -1,0 +1,34 @@
+
+SEABORN_guardian.sprite.dead.png
+size: 631,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bone
+  rotate: true
+  xy: 525, 475
+  size: 154, 80
+  orig: 154, 80
+  offset: 0, 0
+  index: -1
+min
+  rotate: false
+  xy: 2, 232
+  size: 432, 397
+  orig: 432, 397
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 436, 292
+  size: 337, 87
+  orig: 337, 87
+  offset: 0, 0
+  index: -1
+spore
+  rotate: false
+  xy: 2, 2
+  size: 352, 228
+  orig: 352, 228
+  offset: 0, 0
+  index: -1

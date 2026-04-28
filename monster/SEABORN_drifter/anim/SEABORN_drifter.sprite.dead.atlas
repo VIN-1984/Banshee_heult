@@ -1,0 +1,27 @@
+
+SEABORN_drifter.sprite.dead.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+corpse
+  rotate: true
+  xy: 209, 163
+  size: 307, 191
+  orig: 307, 191
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 349, 90
+  orig: 349, 90
+  offset: 0, 0
+  index: -1
+spore
+  rotate: false
+  xy: 2, 94
+  size: 205, 376
+  orig: 205, 376
+  offset: 0, 0
+  index: -1

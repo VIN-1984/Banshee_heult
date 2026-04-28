@@ -1,0 +1,27 @@
+
+SEABORN_brood.sprite.dead.png
+size: 663,663
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: false
+  xy: 2, 425
+  size: 546, 236
+  orig: 546, 236
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 491, 126
+  orig: 491, 126
+  offset: 0, 0
+  index: -1
+spore
+  rotate: false
+  xy: 2, 130
+  size: 453, 293
+  orig: 453, 293
+  offset: 0, 0
+  index: -1

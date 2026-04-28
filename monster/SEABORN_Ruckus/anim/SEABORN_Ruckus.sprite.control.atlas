@@ -1,0 +1,139 @@
+
+SEABORN_Ruckus.sprite.control.png
+size: 1499,1499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: true
+  xy: 683, 98
+  size: 202, 240
+  orig: 202, 240
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 402, 396
+  size: 305, 475
+  orig: 305, 475
+  offset: 0, 0
+  index: -1
+lens1
+  rotate: false
+  xy: 402, 117
+  size: 279, 277
+  orig: 279, 277
+  offset: 0, 0
+  index: -1
+lens2
+  rotate: false
+  xy: 1107, 478
+  size: 229, 227
+  orig: 229, 227
+  offset: 0, 0
+  index: -1
+lens3
+  rotate: false
+  xy: 559, 881
+  size: 140, 139
+  orig: 140, 139
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 3
+  size: 139, 310
+  orig: 139, 310
+  offset: 0, 0
+  index: -1
+light bg
+  rotate: false
+  xy: 2, 873
+  size: 555, 624
+  orig: 555, 624
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 709, 608
+  size: 396, 412
+  orig: 396, 412
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 709, 302
+  size: 304, 305
+  orig: 304, 305
+  offset: 0, 0
+  index: -1
+rune min
+  rotate: false
+  xy: 559, 1022
+  size: 473, 475
+  orig: 473, 475
+  offset: 0, 0
+  index: -1
+sea wave1
+  rotate: false
+  xy: 1244, 264
+  size: 209, 212
+  orig: 209, 212
+  offset: 0, 0
+  index: -1
+sea wave2
+  rotate: false
+  xy: 1120, 73
+  size: 180, 183
+  orig: 180, 183
+  offset: 0, 0
+  index: -1
+sea wave3
+  rotate: false
+  xy: 1302, 92
+  size: 165, 170
+  orig: 165, 170
+  offset: 0, 0
+  index: -1
+sea wave4
+  rotate: false
+  xy: 1016, 258
+  size: 226, 218
+  orig: 226, 218
+  offset: 0, 0
+  index: -1
+sea wave5
+  rotate: true
+  xy: 925, 64
+  size: 192, 193
+  orig: 192, 193
+  offset: 0, 0
+  index: -1
+sea wave6
+  rotate: false
+  xy: 1034, 1031
+  size: 463, 466
+  orig: 463, 466
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 144
+  size: 369, 95
+  orig: 369, 95
+  offset: 0, 0
+  index: -1
+words1
+  rotate: false
+  xy: 1107, 707
+  size: 371, 322
+  orig: 371, 322
+  offset: 0, 0
+  index: -1
+words2
+  rotate: true
+  xy: 2, 241
+  size: 630, 398
+  orig: 630, 398
+  offset: 0, 0
+  index: -1

@@ -1,104 +1,104 @@
 
 SEABORN_brood.sprite.inoculation.png
-size: 1352,1352
+size: 957,957
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 arm1
   rotate: false
-  xy: 696, 729
-  size: 555, 471
-  orig: 558, 474
-  offset: 2, 1
+  xy: 493, 514
+  size: 391, 332
+  orig: 391, 332
+  offset: 0, 0
   index: -1
 arm2
   rotate: true
-  xy: 2, 50
-  size: 437, 242
-  orig: 439, 244
-  offset: 1, 1
+  xy: 312, 19
+  size: 307, 171
+  orig: 307, 171
+  offset: 0, 0
   index: -1
 egg
-  rotate: false
-  xy: 2, 489
-  size: 444, 437
-  orig: 446, 440
-  offset: 1, 2
+  rotate: true
+  xy: 2, 14
+  size: 312, 308
+  orig: 312, 308
+  offset: 0, 0
   index: -1
 eye
   rotate: true
-  xy: 1295, 1330
-  size: 20, 21
-  orig: 26, 28
-  offset: 3, 4
+  xy: 916, 937
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
   index: -1
 ghoust
   rotate: false
-  xy: 2, 928
-  size: 692, 422
-  orig: 699, 428
-  offset: 5, 4
+  xy: 2, 655
+  size: 489, 300
+  orig: 489, 300
+  offset: 0, 0
   index: -1
 head
   rotate: true
-  xy: 1253, 898
-  size: 302, 97
-  orig: 304, 99
-  offset: 1, 1
+  xy: 886, 633
+  size: 213, 69
+  orig: 213, 69
+  offset: 0, 0
   index: -1
 s1
   rotate: true
-  xy: 953, 376
-  size: 351, 367
-  orig: 353, 369
-  offset: 1, 1
+  xy: 696, 265
+  size: 247, 258
+  orig: 247, 258
+  offset: 0, 0
   index: -1
 sea wave1
-  rotate: false
-  xy: 953, 56
-  size: 308, 318
-  orig: 316, 326
-  offset: 4, 4
+  rotate: true
+  xy: 696, 42
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
   index: -1
 sea wave2
   rotate: false
-  xy: 448, 520
-  size: 141, 147
-  orig: 145, 150
-  offset: 2, 1
+  xy: 508, 407
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
   index: -1
 sea wave3
   rotate: false
-  xy: 448, 669
-  size: 246, 257
-  orig: 252, 263
-  offset: 3, 3
+  xy: 330, 328
+  size: 176, 184
+  orig: 176, 184
+  offset: 0, 0
   index: -1
 sea wave5
-  rotate: false
-  xy: 543, 110
-  size: 408, 408
-  orig: 464, 465
-  offset: 27, 29
+  rotate: true
+  xy: 2, 328
+  size: 325, 326
+  orig: 325, 326
+  offset: 0, 0
   index: -1
 shadow
   rotate: false
-  xy: 696, 1202
-  size: 597, 148
-  orig: 601, 153
-  offset: 2, 1
+  xy: 493, 848
+  size: 421, 107
+  orig: 421, 107
+  offset: 0, 0
   index: -1
 shell
   rotate: true
-  xy: 246, 72
-  size: 415, 295
-  orig: 417, 299
-  offset: 1, 3
+  xy: 485, 34
+  size: 292, 209
+  orig: 292, 209
+  offset: 0, 0
   index: -1
 tail
   rotate: true
-  xy: 696, 534
-  size: 193, 119
-  orig: 197, 122
-  offset: 2, 2
+  xy: 330, 515
+  size: 138, 85
+  orig: 138, 85
+  offset: 0, 0
   index: -1

@@ -1,0 +1,146 @@
+
+SEABORN_Ruckus.sprite.crush_blue.png
+size: 3940,3940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Candlelight1
+  rotate: false
+  xy: 2, 3272
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+Candlelight2
+  rotate: false
+  xy: 1092, 3272
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+L1
+  rotate: false
+  xy: 2182, 3272
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+L2
+  rotate: true
+  xy: 3272, 2850
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 2, 2604
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+Portal
+  rotate: false
+  xy: 1092, 2604
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+The Breath of the depth Abyss Dragon1
+  rotate: false
+  xy: 2182, 2604
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+The Breath of the depth Abyss Dragon2
+  rotate: true
+  xy: 3272, 1760
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+The Breath of the depth Abyss Dragon3
+  rotate: true
+  xy: 2, 670
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+The Breath of the depth Abyss Dragon4
+  rotate: false
+  xy: 2, 2
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1936
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+evil influence
+  rotate: true
+  xy: 670, 846
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1092, 1936
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 1092, 178
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+pi
+  rotate: true
+  xy: 1338, 846
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 2006, 846
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+rune min
+  rotate: false
+  xy: 2182, 1936
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2182, 178
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+stl
+  rotate: false
+  xy: 2674, 1092
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1
+words
+  rotate: true
+  xy: 3272, 2
+  size: 1088, 666
+  orig: 1088, 666
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+SEABORN_Ruckus.sprite.defend.png
+size: 1179,1179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candlelight1
+  rotate: false
+  xy: 727, 104
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+candlelight2
+  rotate: true
+  xy: 704, 110
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+flash1
+  rotate: true
+  xy: 514, 681
+  size: 231, 271
+  orig: 231, 271
+  offset: 0, 0
+  index: -1
+flash2
+  rotate: false
+  xy: 788, 664
+  size: 255, 253
+  orig: 255, 253
+  offset: 0, 0
+  index: -1
+lens
+  rotate: false
+  xy: 459, 2
+  size: 243, 241
+  orig: 243, 241
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 704, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+min
+  rotate: true
+  xy: 459, 342
+  size: 302, 467
+  orig: 302, 467
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 2, 646
+  size: 510, 531
+  orig: 510, 531
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 788, 919
+  size: 256, 258
+  orig: 256, 258
+  offset: 0, 0
+  index: -1
+rune1
+  rotate: false
+  xy: 829, 75
+  size: 275, 265
+  orig: 275, 265
+  offset: 0, 0
+  index: -1
+rune2
+  rotate: false
+  xy: 187, 17
+  size: 178, 173
+  orig: 178, 173
+  offset: 0, 0
+  index: -1
+rune3
+  rotate: true
+  xy: 928, 445
+  size: 217, 194
+  orig: 217, 194
+  offset: 0, 0
+  index: -1
+sea wave2
+  rotate: false
+  xy: 514, 914
+  size: 272, 263
+  orig: 272, 263
+  offset: 0, 0
+  index: -1
+sea wave3
+  rotate: true
+  xy: 2, 12
+  size: 178, 183
+  orig: 178, 183
+  offset: 0, 0
+  index: -1
+sea wave5
+  rotate: true
+  xy: 2, 192
+  size: 452, 455
+  orig: 452, 455
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 459, 245
+  size: 368, 95
+  orig: 368, 95
+  offset: 0, 0
+  index: -1

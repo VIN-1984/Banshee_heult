@@ -1,55 +1,55 @@
 
 SEABORN_brood.sprite.nurture.png
-size: 1182,1182
+size: 839,839
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 baby
   rotate: false
-  xy: 885, 514
-  size: 239, 238
-  orig: 241, 240
-  offset: 1, 1
+  xy: 626, 364
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
   index: -1
 egg1
   rotate: false
-  xy: 885, 754
-  size: 271, 426
-  orig: 274, 433
-  offset: 2, 1
+  xy: 626, 534
+  size: 192, 303
+  orig: 192, 303
+  offset: 0, 0
   index: -1
 egg2
   rotate: false
-  xy: 383, 80
-  size: 378, 412
-  orig: 384, 414
-  offset: 4, 1
+  xy: 275, 54
+  size: 269, 290
+  orig: 269, 290
+  offset: 0, 0
   index: -1
 light1
   rotate: false
-  xy: 763, 46
-  size: 193, 446
-  orig: 199, 452
-  offset: 3, 3
+  xy: 546, 28
+  size: 139, 316
+  orig: 139, 316
+  offset: 0, 0
   index: -1
 light2
   rotate: false
-  xy: 2, 70
-  size: 379, 422
-  orig: 387, 428
-  offset: 4, 3
+  xy: 2, 44
+  size: 271, 300
+  orig: 271, 300
+  offset: 0, 0
   index: -1
 shadow
   rotate: true
-  xy: 958, 2
-  size: 510, 126
-  orig: 514, 131
-  offset: 2, 1
+  xy: 687, 2
+  size: 360, 92
+  orig: 360, 92
+  offset: 0, 0
   index: -1
 tail
   rotate: false
-  xy: 2, 494
-  size: 881, 686
-  orig: 888, 701
-  offset: 6, 1
+  xy: 2, 346
+  size: 622, 491
+  orig: 622, 491
+  offset: 0, 0
   index: -1

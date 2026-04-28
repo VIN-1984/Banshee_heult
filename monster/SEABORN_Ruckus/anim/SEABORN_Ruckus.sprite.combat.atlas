@@ -1,0 +1,258 @@
+
+SEABORN_Ruckus.sprite.combat.png
+size: 1053,1053
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Candle
+  rotate: false
+  xy: 252, 18
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Candlelight1
+  rotate: false
+  xy: 1040, 398
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+Candlelight2
+  rotate: false
+  xy: 1040, 418
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+amr4
+  rotate: true
+  xy: 772, 4
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: true
+  xy: 816, 82
+  size: 108, 83
+  orig: 108, 83
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 989, 484
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+arm3
+  rotate: false
+  xy: 593, 74
+  size: 70, 128
+  orig: 70, 128
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 788, 484
+  size: 113, 199
+  orig: 113, 199
+  offset: 0, 0
+  index: -1
+chain1
+  rotate: false
+  xy: 422, 466
+  size: 22, 113
+  orig: 22, 113
+  offset: 0, 0
+  index: -1
+chain2
+  rotate: true
+  xy: 118, 2
+  size: 12, 81
+  orig: 12, 81
+  offset: 0, 0
+  index: -1
+chain3
+  rotate: false
+  xy: 972, 31
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+chain4
+  rotate: false
+  xy: 1009, 403
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 665, 16
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 665, 84
+  size: 149, 106
+  orig: 149, 106
+  offset: 0, 0
+  index: -1
+evil influence
+  rotate: false
+  xy: 422, 83
+  size: 169, 119
+  orig: 169, 119
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 843, 194
+  size: 126, 153
+  orig: 126, 153
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 676, 192
+  size: 84, 158
+  orig: 84, 158
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 2, 5
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 711, 465
+  size: 75, 230
+  orig: 75, 230
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: true
+  xy: 118, 16
+  size: 43, 101
+  orig: 43, 101
+  offset: 0, 0
+  index: -1
+lens
+  rotate: false
+  xy: 810, 599
+  size: 224, 223
+  orig: 224, 223
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 901, 72
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pi
+  rotate: false
+  xy: 2, 581
+  size: 451, 470
+  orig: 451, 470
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 810, 824
+  size: 226, 227
+  orig: 226, 227
+  offset: 0, 0
+  index: -1
+rune big
+  rotate: false
+  xy: 455, 697
+  size: 353, 354
+  orig: 353, 354
+  offset: 0, 0
+  index: -1
+rune1
+  rotate: false
+  xy: 455, 449
+  size: 254, 246
+  orig: 254, 246
+  offset: 0, 0
+  index: -1
+rune2
+  rotate: false
+  xy: 843, 322
+  size: 164, 160
+  orig: 164, 160
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 372, 100
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+sea wave2
+  rotate: false
+  xy: 422, 204
+  size: 252, 243
+  orig: 252, 243
+  offset: 0, 0
+  index: -1
+sea wave3
+  rotate: false
+  xy: 676, 278
+  size: 165, 169
+  orig: 165, 169
+  offset: 0, 0
+  index: -1
+sea wave5
+  rotate: false
+  xy: 2, 158
+  size: 418, 421
+  orig: 418, 421
+  offset: 0, 0
+  index: -1
+sealing wax
+  rotate: true
+  xy: 871, 10
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 61
+  size: 368, 95
+  orig: 368, 95
+  offset: 0, 0
+  index: -1
+skull1
+  rotate: true
+  xy: 372, 69
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+skull2
+  rotate: false
+  xy: 1009, 441
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+skull3
+  rotate: false
+  xy: 221, 16
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
